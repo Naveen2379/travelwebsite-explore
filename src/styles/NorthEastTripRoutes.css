@@ -1,0 +1,32 @@
+.routesStyle {
+    display: flex;
+    margin-top: 20px;
+    justify-content: left;
+    width: 100%;
+}
+
+.routeNumberStyle {
+    width: 15%;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: darkcyan;
+    padding: 20px;
+}
+
+.showRouteStyle {
+    width: 70%;
+}
+
+.haltStations {
+    display: flex;
+}
+
+/*.routesStyle {
+    width: 250px;
+    height: 500px;
+    margin-top: 20px;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: aliceblue;
+    padding-top: 15px;
+}*/

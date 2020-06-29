@@ -1,0 +1,18 @@
+.routeItemSidebar {
+    padding: 10px;
+}
+
+.routeItemSidebar.row:hover{
+    background-color: #f5f4f3;
+    border-radius: 5px;
+}
+
+.haltStationStyle {
+    margin-left: 1100px;
+}
+
+.haltStationStyle {
+    display: flex;
+    justify-content: center;
+    max-width: 1700px !important;
+}

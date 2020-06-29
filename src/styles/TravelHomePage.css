@@ -1,0 +1,39 @@
+.appHeader {
+    margin: 0px 458px;
+    min-height: 68px;
+    width: 50%;
+    position: fixed;
+    opacity: 0.8;
+    background-color: darkorchid;
+    border-radius: 5px;
+    font-size: 40px;
+}
+
+.containerStyle {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.tripSelection {
+    padding-top: 20px;
+    height: 70px;
+    width: 100%;
+    background-color: dodgerblue;
+    font-size: larger;
+}
+
+.appHeaderContent {
+    min-height: 70px;
+    width: 100%;
+    background-color: dodgerblue;
+}
+
+.labelStyle {
+    padding-right: 20px;
+}
+
+.selectedTripStyle {
+    width: 100%;
+}
+

@@ -1,0 +1,723 @@
+{
+    "summary": {
+        "queryType": "NEARBY",
+        "queryTime": 103,
+        "numResults": 10,
+        "offset": 0,
+        "totalResults": 264884,
+        "fuzzyLevel": 1,
+        "geoBias": {
+            "lat": 17.385,
+            "lon": 78.4867
+        }
+    },
+    "results": [
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMzgyNjc3NTOhY6NJTkShdqJJTg==",
+            "score": 99.9945297241211,
+            "dist": 5.469915318942478,
+            "info": "search:ta:356009038267753-IN",
+            "poi": {
+                "name": "Bavana Sai Associates SEZ",
+                "categorySet": [
+                    {
+                        "id": 9352032
+                    }
+                ],
+                "categories": [
+                    "company",
+                    "construction"
+                ],
+                "classifications": [
+                    {
+                        "code": "COMPANY",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "construction"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "company"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Koti Main Road, Narayana Naik Complex, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500095",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Koti Main Road, Narayana Naik Complex, Koti, Hyderabad, Telangana, 500095",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38504,
+                "lon": 78.48667
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38594,
+                    "lon": 78.48573
+                },
+                "btmRightPoint": {
+                    "lat": 17.38414,
+                    "lon": 78.48761
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38489,
+                        "lon": 78.48666
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMTg2Mzg0NDmhY6NJTkShdqJJTg==",
+            "score": 99.98404693603516,
+            "dist": 15.956021497986018,
+            "info": "search:ta:356009018638449-IN",
+            "poi": {
+                "name": "Gandhi Gnan Mandhir",
+                "categorySet": [
+                    {
+                        "id": 7339005
+                    }
+                ],
+                "categories": [
+                    "place of worship",
+                    "temple"
+                ],
+                "classifications": [
+                    {
+                        "code": "PLACE_OF_WORSHIP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "temple"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "place of worship"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Chadar Ghat Main Road, Andhra Bank, Koti Hyderabad",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500095",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Chadar Ghat Main Road, Andhra Bank, Koti Hyderabad, Hyderabad, Telangana, 500095",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38499,
+                "lon": 78.48655
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38589,
+                    "lon": 78.48561
+                },
+                "btmRightPoint": {
+                    "lat": 17.38409,
+                    "lon": 78.48749
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.3849,
+                        "lon": 78.48654
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMDM4MjgwMzShY6NJTkShdqJJTg==",
+            "score": 99.97748565673828,
+            "dist": 22.51293490437351,
+            "info": "search:ta:356009003828034-IN",
+            "poi": {
+                "name": "EIQ Networks Limited Multiwave Technologies Private Limited",
+                "categorySet": [
+                    {
+                        "id": 9352004
+                    }
+                ],
+                "categories": [
+                    "company",
+                    "computer data services"
+                ],
+                "classifications": [
+                    {
+                        "code": "COMPANY",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "computer data services"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "company"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "225, Koti To Dilsukh Nagar Road, Sultan Bazar",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500001",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "225, Koti To Dilsukh Nagar Road, Sultan Bazar, Hyderabad, Telangana, 500001",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38516,
+                "lon": 78.48657
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38606,
+                    "lon": 78.48563
+                },
+                "btmRightPoint": {
+                    "lat": 17.38426,
+                    "lon": 78.48751
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38534,
+                        "lon": 78.48657
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDEwMTQyODA4MjahY6NJTkShdqJJTg==",
+            "score": 99.97663116455078,
+            "dist": 23.37189240323964,
+            "info": "search:ta:356001014280826-IN",
+            "poi": {
+                "name": "Gandhi Book House",
+                "categorySet": [
+                    {
+                        "id": 9361002
+                    }
+                ],
+                "categories": [
+                    "book shops",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "book shops"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Koti Main Road, Andhra Bank, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500095",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Koti Main Road, Andhra Bank, Koti, Hyderabad, Telangana, 500095",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38499,
+                "lon": 78.48648
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38589,
+                    "lon": 78.48554
+                },
+                "btmRightPoint": {
+                    "lat": 17.38409,
+                    "lon": 78.48742
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.3849,
+                        "lon": 78.48647
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDEwMTM0OTk5NTGhY6NJTkShdqJJTg==",
+            "score": 99.96965026855469,
+            "dist": 30.348684047231263,
+            "info": "search:ta:356001013499951-IN",
+            "poi": {
+                "name": "Yoshada Book Center",
+                "categorySet": [
+                    {
+                        "id": 9361002
+                    }
+                ],
+                "categories": [
+                    "book shops",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "book shops"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Koti Main Road, Andhra Bank, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500095",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Koti Main Road, Andhra Bank, Koti, Hyderabad, Telangana, 500095",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38509,
+                "lon": 78.48643
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38599,
+                    "lon": 78.48549
+                },
+                "btmRightPoint": {
+                    "lat": 17.38419,
+                    "lon": 78.48737
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38509,
+                        "lon": 78.48638
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDEwMTQxNjU5NzKhY6NJTkShdqJJTg==",
+            "score": 99.96965026855469,
+            "dist": 30.348684047231263,
+            "info": "search:ta:356001014165972-IN",
+            "poi": {
+                "name": "Jnb Book Center",
+                "categorySet": [
+                    {
+                        "id": 9361002
+                    }
+                ],
+                "categories": [
+                    "book shops",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "book shops"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Koti Main Road, Andhra Bank, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500095",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Koti Main Road, Andhra Bank, Koti, Hyderabad, Telangana, 500095",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38509,
+                "lon": 78.48643
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38599,
+                    "lon": 78.48549
+                },
+                "btmRightPoint": {
+                    "lat": 17.38419,
+                    "lon": 78.48737
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38509,
+                        "lon": 78.48638
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMzM4MzAxNjWhY6NJTkShdqJJTg==",
+            "score": 99.96791076660156,
+            "dist": 32.091325947487704,
+            "info": "search:ta:356009033830165-IN",
+            "poi": {
+                "name": "Tilak Park",
+                "categorySet": [
+                    {
+                        "id": 9362008
+                    }
+                ],
+                "categories": [
+                    "park",
+                    "park recreation area"
+                ],
+                "classifications": [
+                    {
+                        "code": "PARK_RECREATION_AREA",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park recreation area"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "park"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Koti Main Road, Govt Maternity Hospital, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500095",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Koti Main Road, Govt Maternity Hospital, Koti, Hyderabad, Telangana, 500095",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38513,
+                "lon": 78.48697
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38554,
+                    "lon": 78.48669
+                },
+                "btmRightPoint": {
+                    "lat": 17.38486,
+                    "lon": 78.48727
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.385,
+                        "lon": 78.48717
+                    }
+                }
+            ],
+            "dataSources": {
+                "geometry": {
+                    "id": "839df436-ff8b-4637-8eb0-cd2386b3c5d0"
+                }
+            }
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMjQ0NzUyNTmhY6NJTkShdqJJTg==",
+            "score": 99.96121978759766,
+            "dist": 38.779828529711416,
+            "info": "search:ta:356009024475259-IN",
+            "poi": {
+                "name": "Binny Book Stall",
+                "categorySet": [
+                    {
+                        "id": 9361002
+                    }
+                ],
+                "categories": [
+                    "book shops",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "book shops"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Womens College Road, Near Punjab National Bank, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500001",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Womens College Road, Near Punjab National Bank, Koti, Hyderabad, Telangana, 500001",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38506,
+                "lon": 78.48634
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38596,
+                    "lon": 78.4854
+                },
+                "btmRightPoint": {
+                    "lat": 17.38416,
+                    "lon": 78.48728
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38492,
+                        "lon": 78.48633
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMjQ0OTg2NzOhY6NJTkShdqJJTg==",
+            "score": 99.96089935302734,
+            "dist": 39.102752167491516,
+            "info": "search:ta:356009024498673-IN",
+            "poi": {
+                "name": "Yashoda Book Shopee",
+                "categorySet": [
+                    {
+                        "id": 9361002
+                    }
+                ],
+                "categories": [
+                    "book shops",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "book shops"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetNumber": "4-5-214/10",
+                "streetName": "Womens College Road, Near Punjab National Bank, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500001",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "4-5-214/10 Womens College Road, Near Punjab National Bank, Koti, Hyderabad, Telangana, 500001",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38511,
+                "lon": 78.48635
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38601,
+                    "lon": 78.48541
+                },
+                "btmRightPoint": {
+                    "lat": 17.38421,
+                    "lon": 78.48729
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38492,
+                        "lon": 78.48633
+                    }
+                }
+            ]
+        },
+        {
+            "type": "POI",
+            "id": "g6JpZK8zNTYwMDkwMjQ5OTQ3MDGhY6NJTkShdqJJTg==",
+            "score": 99.95928955078125,
+            "dist": 40.71375227858716,
+            "info": "search:ta:356009024994701-IN",
+            "poi": {
+                "name": "New Roshans Book Center",
+                "phone": "+(91)-(85005)-99999",
+                "categorySet": [
+                    {
+                        "id": 9361002
+                    }
+                ],
+                "categories": [
+                    "book shops",
+                    "shop"
+                ],
+                "classifications": [
+                    {
+                        "code": "SHOP",
+                        "names": [
+                            {
+                                "nameLocale": "en-US",
+                                "name": "shop"
+                            },
+                            {
+                                "nameLocale": "en-US",
+                                "name": "book shops"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "address": {
+                "streetName": "Womens College Road, Near Punjab National Bank, Koti",
+                "municipalitySubdivision": "Badi Chowdi",
+                "municipality": "Hyderabad",
+                "countrySecondarySubdivision": "Hyderabad",
+                "countrySubdivision": "Telangana",
+                "postalCode": "500001",
+                "countryCode": "IN",
+                "country": "India",
+                "countryCodeISO3": "IND",
+                "freeformAddress": "Womens College Road, Near Punjab National Bank, Koti, Hyderabad, Telangana, 500001",
+                "localName": "Hyderabad"
+            },
+            "position": {
+                "lat": 17.38515,
+                "lon": 78.48635
+            },
+            "viewport": {
+                "topLeftPoint": {
+                    "lat": 17.38605,
+                    "lon": 78.48541
+                },
+                "btmRightPoint": {
+                    "lat": 17.38425,
+                    "lon": 78.48729
+                }
+            },
+            "entryPoints": [
+                {
+                    "type": "main",
+                    "position": {
+                        "lat": 17.38492,
+                        "lon": 78.48633
+                    }
+                }
+            ]
+        }
+    ]
+}

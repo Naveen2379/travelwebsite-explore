@@ -1,0 +1,7023 @@
+{
+  "summary": {
+    "queryType": "NEARBY",
+    "queryTime": 220,
+    "numResults": 100,
+    "offset": 0,
+    "totalResults": 221,
+    "fuzzyLevel": 1,
+    "geoBias": {
+      "lat": 17.385,
+      "lon": 78.4867
+    }
+  },
+  "results": [
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTc3NjUwMDWhY6NJTkShdqJJTg==",
+      "score": 99.89697265625,
+      "dist": 103.02810259716568,
+      "info": "search:ta:356009017765005-IN",
+      "poi": {
+        "name": "Gokul Chat Centre",
+        "phone": "+(91)-(99492)-74444",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Chadar Ghat Main Road, Rajasthan Bhavan, Koti Hyderabad",
+        "municipalitySubdivision": "Badi Chowdi",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Chadar Ghat Main Road, Rajasthan Bhavan, Koti Hyderabad, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38504,
+        "lon": 78.48573
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38594,
+          "lon": 78.48479
+        },
+        "btmRightPoint": {
+          "lat": 17.38414,
+          "lon": 78.48667
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38496,
+            "lon": 78.48575
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM3OTk1MTGhY6NJTkShdqJJTg==",
+      "score": 99.83092498779297,
+      "dist": 169.07393376120422,
+      "info": "search:ta:356009033799511-IN",
+      "poi": {
+        "name": "Peshwari High Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sulthan Bazar Road, Jain Temple, Koti",
+        "municipalitySubdivision": "Badi Chowdi",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "extendedPostalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sulthan Bazar Road, Jain Temple, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3861,
+        "lon": 78.4856
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.387,
+          "lon": 78.48466
+        },
+        "btmRightPoint": {
+          "lat": 17.3852,
+          "lon": 78.48654
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38607,
+            "lon": 78.48551
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTgxMTkzMDShY6NJTkShdqJJTg==",
+      "score": 99.81948852539062,
+      "dist": 180.5086311232621,
+      "info": "search:ta:356009018119304-IN",
+      "poi": {
+        "name": "Cpwd Canteen",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kendriya Sadan Road Street, Dmho Office, Kachiguda Hyderabad",
+        "municipalitySubdivision": "Badi Chowdi",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kendriya Sadan Road Street, Dmho Office, Kachiguda Hyderabad, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38616,
+        "lon": 78.48789
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38706,
+          "lon": 78.48695
+        },
+        "btmRightPoint": {
+          "lat": 17.38526,
+          "lon": 78.48883
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38616,
+            "lon": 78.48791
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ2NjU0NzehY6NJTkShdqJJTg==",
+      "score": 99.81146240234375,
+      "dist": 188.5357560027453,
+      "info": "search:ta:356009034665477-IN",
+      "poi": {
+        "name": "Sri Bhavani Mess",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Road, Government Maternity Hospital, Koti",
+        "municipalitySubdivision": "Badi Chowdi",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Road, Government Maternity Hospital, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38668,
+        "lon": 78.48646
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38758,
+          "lon": 78.48552
+        },
+        "btmRightPoint": {
+          "lat": 17.38578,
+          "lon": 78.4874
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38694,
+            "lon": 78.48617
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM1NTA0MzOhY6NJTkShdqJJTg==",
+      "score": 99.77964782714844,
+      "dist": 220.35086027483194,
+      "info": "search:ta:356009033550433-IN",
+      "poi": {
+        "name": "Scoop Ice Cream Parlour",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Chadar Ghat Main Road, Womens College Bus Stop, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Chadar Ghat Main Road, Womens College Bus Stop, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38463,
+        "lon": 78.48874
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38553,
+          "lon": 78.4878
+        },
+        "btmRightPoint": {
+          "lat": 17.38373,
+          "lon": 78.48968
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38464,
+            "lon": 78.4887
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzc3MTU1NDehY6NJTkShdqJJTg==",
+      "score": 99.75223541259766,
+      "dist": 247.7609921493999,
+      "info": "search:ta:356009037715547-IN",
+      "poi": {
+        "name": "Hotel Akshaya",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Chaderghat Road, Punjab National Bank, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Chaderghat Road, Punjab National Bank, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38452,
+        "lon": 78.48898
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38542,
+          "lon": 78.48804
+        },
+        "btmRightPoint": {
+          "lat": 17.38362,
+          "lon": 78.48992
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38464,
+            "lon": 78.48901
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM0OTk3NTKhY6NJTkShdqJJTg==",
+      "score": 99.73436737060547,
+      "dist": 265.6314085572197,
+      "info": "search:ta:356009033499752-IN",
+      "poi": {
+        "name": "Pragathi Tiffins",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Main Road, Tssrtc Bus Terminal, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Main Road, Tssrtc Bus Terminal, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38451,
+        "lon": 78.48425
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38541,
+          "lon": 78.48331
+        },
+        "btmRightPoint": {
+          "lat": 17.38361,
+          "lon": 78.48519
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38443,
+            "lon": 78.48429
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDQwMTU5MjOhY6NJTkShdqJJTg==",
+      "score": 99.71514892578125,
+      "dist": 284.85001734721124,
+      "info": "search:ta:356009004015923-IN",
+      "poi": {
+        "name": "Vijay Mess",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "4-4-398",
+        "streetName": "Sultan Bazar Road, Sultan Bazar",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "4-4-398 Sultan Bazar Road, Sultan Bazar, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3868,
+        "lon": 78.48479
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3877,
+          "lon": 78.48385
+        },
+        "btmRightPoint": {
+          "lat": 17.3859,
+          "lon": 78.48573
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38617,
+            "lon": 78.48547
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQxMjAwOTGhY6NJTkShdqJJTg==",
+      "score": 99.71498107910156,
+      "dist": 285.0170318831634,
+      "info": "search:ta:356001014120091-IN",
+      "poi": {
+        "name": "Kokila Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Main Road, Koti Chowrasta, Gujarati Galli",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500195",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Main Road, Koti Chowrasta, Gujarati Galli, Hyderabad, Telangana, 500195",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38517,
+        "lon": 78.48402
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38607,
+          "lon": 78.48308
+        },
+        "btmRightPoint": {
+          "lat": 17.38427,
+          "lon": 78.48496
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38502,
+            "lon": 78.484
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMDQ5MzYxOTKhY6NJTkShdqJJTg==",
+      "score": 99.7055435180664,
+      "dist": 294.45945670327325,
+      "info": "search:ta:356001004936192-IN",
+      "poi": {
+        "name": "Hotel Kamal",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Turre Baz Khan Road, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Turre Baz Khan Road, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38435,
+        "lon": 78.48401
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38525,
+          "lon": 78.48307
+        },
+        "btmRightPoint": {
+          "lat": 17.38345,
+          "lon": 78.48495
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38442,
+            "lon": 78.48394
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDk3MDg2NjihY6NJTkShdqJJTg==",
+      "score": 99.7042465209961,
+      "dist": 295.7568942675535,
+      "info": "search:ta:356009009708668-IN",
+      "poi": {
+        "name": "Hilton Hotel",
+        "phone": "+(91)-(93939)-41651",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "5-1-751",
+        "streetName": "Narayan Guda",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "5-1-751 Narayan Guda, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38481,
+        "lon": 78.48392
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38571,
+          "lon": 78.48298
+        },
+        "btmRightPoint": {
+          "lat": 17.38391,
+          "lon": 78.48486
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38506,
+            "lon": 78.48376
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ4MzAyNzOhY6NJTkShdqJJTg==",
+      "score": 99.69325256347656,
+      "dist": 306.7469540051575,
+      "info": "search:ta:356009034830273-IN",
+      "poi": {
+        "name": "Lassi Hub",
+        "categorySet": [
+          {
+            "id": 7315149
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "yogurt/juice bar"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "yogurt/juice bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Esamia Bazar Road, Near Marathi Granth Sangrahalay, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Esamia Bazar Road, Near Marathi Granth Sangrahalay, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38404,
+        "lon": 78.48941
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38494,
+          "lon": 78.48847
+        },
+        "btmRightPoint": {
+          "lat": 17.38314,
+          "lon": 78.49035
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38407,
+            "lon": 78.48896
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzMzODQ2MzWhY6NJTkShdqJJTg==",
+      "score": 99.68092346191406,
+      "dist": 319.0757854808783,
+      "info": "search:ta:356009033384635-IN",
+      "poi": {
+        "name": "Gayatri Fast Food",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Esamia Bazar Road, Victory Play Ground, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Esamia Bazar Road, Victory Play Ground, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38393,
+        "lon": 78.48949
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38483,
+          "lon": 78.48855
+        },
+        "btmRightPoint": {
+          "lat": 17.38303,
+          "lon": 78.49043
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38407,
+            "lon": 78.48896
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzMzNTEzNTWhY6NJTkShdqJJTg==",
+      "score": 99.6791000366211,
+      "dist": 320.90252692478157,
+      "info": "search:ta:356009033351355-IN",
+      "poi": {
+        "name": "Anjana Hotel and Motel Private Ltd",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Main Road, Sri Gujarati Vidya Mandir, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500195",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Main Road, Sri Gujarati Vidya Mandir, Koti, Hyderabad, Telangana, 500195",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38515,
+        "lon": 78.48368
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38605,
+          "lon": 78.48274
+        },
+        "btmRightPoint": {
+          "lat": 17.38425,
+          "lon": 78.48462
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38507,
+            "lon": 78.48366
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM4Mjk4OTOhY6NJTkShdqJJTg==",
+      "score": 99.6791000366211,
+      "dist": 320.90252692478157,
+      "info": "search:ta:356009033829893-IN",
+      "poi": {
+        "name": "Bharathi Tiffin and Meals",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Main Road, Sri Gujarati Vidya Mandir, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500195",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Main Road, Sri Gujarati Vidya Mandir, Koti, Hyderabad, Telangana, 500195",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38515,
+        "lon": 78.48368
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38605,
+          "lon": 78.48274
+        },
+        "btmRightPoint": {
+          "lat": 17.38425,
+          "lon": 78.48462
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38507,
+            "lon": 78.48366
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTA1NDI3MDShY6NJTkShdqJJTg==",
+      "score": 99.67527770996094,
+      "dist": 324.7219490091349,
+      "info": "search:ta:356009010542704-IN",
+      "poi": {
+        "name": "Hotel SVR",
+        "phone": "+(91)-(40)-66625229",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Narayan Guda",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Narayan Guda, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38404,
+        "lon": 78.48381
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38494,
+          "lon": 78.48287
+        },
+        "btmRightPoint": {
+          "lat": 17.38314,
+          "lon": 78.48475
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38421,
+            "lon": 78.48377
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM4Njk1NDGhY6NJTkShdqJJTg==",
+      "score": 99.67207336425781,
+      "dist": 327.9297754540101,
+      "info": "search:ta:356001013869541-IN",
+      "poi": {
+        "name": "Raj Mahal Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazzar Road, Sultan Bazzar",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazzar Road, Sultan Bazzar, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38553,
+        "lon": 78.48366
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38643,
+          "lon": 78.48272
+        },
+        "btmRightPoint": {
+          "lat": 17.38463,
+          "lon": 78.4846
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38508,
+            "lon": 78.48363
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDE1MzU3OTehY6NJTkShdqJJTg==",
+      "score": 99.6719741821289,
+      "dist": 328.02715662106795,
+      "info": "search:ta:356009001535797-IN",
+      "poi": {
+        "name": "Sai Baba Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "4-7-975",
+        "streetName": "Isamiya Bazar Main Rd, Vishva Diagonistic Center, Isamiya Bazar",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "4-7-975 Isamiya Bazar Main Rd, Vishva Diagonistic Center, Isamiya Bazar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38371,
+        "lon": 78.48948
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38461,
+          "lon": 78.48854
+        },
+        "btmRightPoint": {
+          "lat": 17.38281,
+          "lon": 78.49042
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38366,
+            "lon": 78.48962
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQwMjM3MzKhY6NJTkShdqJJTg==",
+      "score": 99.66996002197266,
+      "dist": 330.03907687602526,
+      "info": "search:ta:356001014023732-IN",
+      "poi": {
+        "name": "Meo Mess Andhra Meals",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bank Street Road, Andhra Bank, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Bank Street Road, Andhra Bank, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38476,
+        "lon": 78.4836
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38566,
+          "lon": 78.48266
+        },
+        "btmRightPoint": {
+          "lat": 17.38386,
+          "lon": 78.48454
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38507,
+            "lon": 78.48368
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDQ3NjgwMDGhY6NJTkShdqJJTg==",
+      "score": 99.66727447509766,
+      "dist": 332.7288953793324,
+      "info": "search:ta:356009004768001-IN",
+      "poi": {
+        "name": "Vishram Bhavan Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Telecom Staff Quarters Complex, Koti Womens College Road, Narayan Guda",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Telecom Staff Quarters Complex, Koti Womens College Road, Narayan Guda, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38778,
+        "lon": 78.48554
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38868,
+          "lon": 78.4846
+        },
+        "btmRightPoint": {
+          "lat": 17.38688,
+          "lon": 78.48648
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.3878,
+            "lon": 78.48546
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTgxMDA4NzKhY6NJTkShdqJJTg==",
+      "score": 99.65711212158203,
+      "dist": 342.88853981639176,
+      "info": "search:ta:356009018100872-IN",
+      "poi": {
+        "name": "Padmavathi Fast Food Point",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Main Road, Vishva Diagonistic Center, Koti Hyderabad",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "extendedPostalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Main Road, Vishva Diagonistic Center, Koti Hyderabad, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38413,
+        "lon": 78.4898
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38503,
+          "lon": 78.48886
+        },
+        "btmRightPoint": {
+          "lat": 17.38323,
+          "lon": 78.49074
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38415,
+            "lon": 78.48971
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzMzNjQ0MjKhY6NJTkShdqJJTg==",
+      "score": 99.65665435791016,
+      "dist": 343.348615558521,
+      "info": "search:ta:356009033364422-IN",
+      "poi": {
+        "name": "Lassi Shop",
+        "categorySet": [
+          {
+            "id": 7315149
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "yogurt/juice bar"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "yogurt/juice bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Chaderghat Road, Near Marathi Granth Sangrahalay, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Chaderghat Road, Near Marathi Granth Sangrahalay, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38443,
+        "lon": 78.48988
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38533,
+          "lon": 78.48894
+        },
+        "btmRightPoint": {
+          "lat": 17.38353,
+          "lon": 78.49082
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38449,
+            "lon": 78.48988
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM2MzMxMDGhY6NJTkShdqJJTg==",
+      "score": 99.65603637695312,
+      "dist": 343.95985103789803,
+      "info": "search:ta:356009033633101-IN",
+      "poi": {
+        "name": "Kushboo Ice",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "3-3-751",
+        "streetName": "Kubtiguda Main Road, Near Sultan Bazar Police Station, Koti",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "3-3-751 Kubtiguda Main Road, Near Sultan Bazar Police Station, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38509,
+        "lon": 78.48994
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38599,
+          "lon": 78.489
+        },
+        "btmRightPoint": {
+          "lat": 17.38419,
+          "lon": 78.49088
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.3851,
+            "lon": 78.48989
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQ0NzIwNDihY6NJTkShdqJJTg==",
+      "score": 99.65577697753906,
+      "dist": 344.2211667661529,
+      "info": "search:ta:356001014472048-IN",
+      "poi": {
+        "name": "Andhra Full Meals Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazaar Cross Road, Jain Mandhir, Sultan Bazaar",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazaar Cross Road, Jain Mandhir, Sultan Bazaar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38412,
+        "lon": 78.48359
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38502,
+          "lon": 78.48265
+        },
+        "btmRightPoint": {
+          "lat": 17.38322,
+          "lon": 78.48453
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38406,
+            "lon": 78.48365
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI5ODI5MzmhY6NJTkShdqJJTg==",
+      "score": 99.64978790283203,
+      "dist": 350.2095407249748,
+      "info": "search:ta:356009032982939-IN",
+      "poi": {
+        "name": "Annapurna Mess",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bank Street, Sitara Royal Hotel, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Bank Street, Sitara Royal Hotel, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38496,
+        "lon": 78.4834
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38586,
+          "lon": 78.48246
+        },
+        "btmRightPoint": {
+          "lat": 17.38406,
+          "lon": 78.48434
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38511,
+            "lon": 78.48343
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzIzMjg2NjahY6NJTkShdqJJTg==",
+      "score": 99.6478500366211,
+      "dist": 352.14807464588074,
+      "info": "search:ta:356009032328666-IN",
+      "poi": {
+        "name": "Shri Mallikarjuna Fast Food Centre",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "4-7-975",
+        "streetName": "Esamia Bazar Road, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "4-7-975 Esamia Bazar Road, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38373,
+        "lon": 78.48974
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38463,
+          "lon": 78.4888
+        },
+        "btmRightPoint": {
+          "lat": 17.38283,
+          "lon": 78.49068
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38449,
+            "lon": 78.48988
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM0MTMzMjShY6NJTkShdqJJTg==",
+      "score": 99.6302719116211,
+      "dist": 369.73167519803087,
+      "info": "search:ta:356009033413324-IN",
+      "poi": {
+        "name": "Navnith Fast Foods",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gujarat Galli Road, Hotel Sitara, Koti",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Gujarat Galli Road, Hotel Sitara, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38638,
+        "lon": 78.48353
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38728,
+          "lon": 78.48259
+        },
+        "btmRightPoint": {
+          "lat": 17.38548,
+          "lon": 78.48447
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38638,
+            "lon": 78.48349
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM2NDI0NTihY6NJTkShdqJJTg==",
+      "score": 99.62907409667969,
+      "dist": 370.9292540049478,
+      "info": "search:ta:356009003642458-IN",
+      "poi": {
+        "name": "Laveena Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Road, Co-Operative Bank, Sultan Bazar",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Road, Co-Operative Bank, Sultan Bazar, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3839,
+        "lon": 78.4834
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3848,
+          "lon": 78.48246
+        },
+        "btmRightPoint": {
+          "lat": 17.383,
+          "lon": 78.48434
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38385,
+            "lon": 78.48346
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM1MjQ5NDShY6NJTkShdqJJTg==",
+      "score": 99.62031555175781,
+      "dist": 379.6831277434612,
+      "info": "search:ta:356001013524944-IN",
+      "poi": {
+        "name": "Vijaya Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Isamiya Bazar Main Road, Esamia Bazaar Community Hall, Isamiya Bazar",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Isamiya Bazar Main Road, Esamia Bazaar Community Hall, Isamiya Bazar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.383,
+        "lon": 78.4896
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3839,
+          "lon": 78.48866
+        },
+        "btmRightPoint": {
+          "lat": 17.3821,
+          "lon": 78.49054
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38302,
+            "lon": 78.48947
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI2MjEzMDmhY6NJTkShdqJJTg==",
+      "score": 99.61133575439453,
+      "dist": 388.66151256376196,
+      "info": "search:ta:356009032621309-IN",
+      "poi": {
+        "name": "Usha Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kanda Swamy Lane, Hanuman Vyamshala, Koti",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kanda Swamy Lane, Hanuman Vyamshala, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38711,
+        "lon": 78.48378
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3883,
+          "lon": 78.48253
+        },
+        "btmRightPoint": {
+          "lat": 17.38592,
+          "lon": 78.48503
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38829,
+            "lon": 78.4836
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQyNTA5NTehY6NJTkShdqJJTg==",
+      "score": 99.60104370117188,
+      "dist": 398.9571907403981,
+      "info": "search:ta:356001014250957-IN",
+      "poi": {
+        "name": "Green Hotel",
+        "phone": "+(91)-(40)-24601731",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Turrebaz Khan Road, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Turrebaz Khan Road, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38266,
+        "lon": 78.48385
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38356,
+          "lon": 78.48291
+        },
+        "btmRightPoint": {
+          "lat": 17.38176,
+          "lon": 78.48479
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38192,
+            "lon": 78.48396
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQyMTE5NTGhY6NJTkShdqJJTg==",
+      "score": 99.5990219116211,
+      "dist": 400.9743268614646,
+      "info": "search:ta:356001014211951-IN",
+      "poi": {
+        "name": "Hotel Ruchi",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kanda Swamy Lane, Hanuman Vyamshala, Sultan Bazaar",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kanda Swamy Lane, Hanuman Vyamshala, Sultan Bazaar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38718,
+        "lon": 78.48369
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38808,
+          "lon": 78.48275
+        },
+        "btmRightPoint": {
+          "lat": 17.38628,
+          "lon": 78.48463
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38716,
+            "lon": 78.48369
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM5NjU5NjKhY6NJTkShdqJJTg==",
+      "score": 99.59526824951172,
+      "dist": 404.73436203910745,
+      "info": "search:ta:356009033965962-IN",
+      "poi": {
+        "name": "Balaji Tiffins",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Road, Royal Plaza, Koti",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Road, Royal Plaza, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38853,
+        "lon": 78.48577
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38943,
+          "lon": 78.48483
+        },
+        "btmRightPoint": {
+          "lat": 17.38763,
+          "lon": 78.48671
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38854,
+            "lon": 78.48588
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzY4MTQ5NTWhY6NJTkShdqJJTg==",
+      "score": 99.59476470947266,
+      "dist": 405.23283472807026,
+      "info": "search:ta:356009036814955-IN",
+      "poi": {
+        "name": "Yadav Tiffin Center",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Bank Street, Sri Gujarati Vidya Mandir, Koti",
+        "municipalitySubdivision": "Badi Chowdi",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500195",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Bank Street, Sri Gujarati Vidya Mandir, Koti, Hyderabad, Telangana, 500195",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38604,
+        "lon": 78.48304
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38694,
+          "lon": 78.4821
+        },
+        "btmRightPoint": {
+          "lat": 17.38514,
+          "lon": 78.48398
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38596,
+            "lon": 78.4834
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM5ODA1MzGhY6NJTkShdqJJTg==",
+      "score": 99.53327178955078,
+      "dist": 466.73162846101303,
+      "info": "search:ta:356009033980531-IN",
+      "poi": {
+        "name": "Health League Yoga Classes",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kubtiguda Main Road, Health League, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kubtiguda Main Road, Health League, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38842,
+        "lon": 78.48925
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38932,
+          "lon": 78.48831
+        },
+        "btmRightPoint": {
+          "lat": 17.38752,
+          "lon": 78.49019
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38842,
+            "lon": 78.48935
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM2OTY2MzShY6NJTkShdqJJTg==",
+      "score": 99.53026580810547,
+      "dist": 469.73701098014055,
+      "info": "search:ta:356009033696634-IN",
+      "poi": {
+        "name": "Yams Tiffin Center",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Osmania Medical College Road, Osmania Medical College, Koti",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Osmania Medical College Road, Osmania Medical College, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38108,
+        "lon": 78.48505
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38198,
+          "lon": 78.48411
+        },
+        "btmRightPoint": {
+          "lat": 17.38018,
+          "lon": 78.48599
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38087,
+            "lon": 78.48497
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMjQxNzg0ODKhY6NJTkShdqJJTg==",
+      "score": 99.5238037109375,
+      "dist": 476.19279624543503,
+      "info": "search:ta:356009024178482-IN",
+      "poi": {
+        "name": "Sri Mahalaxmi Deluxe Dhaba",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38574,
+        "lon": 78.48228
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38664,
+          "lon": 78.48134
+        },
+        "btmRightPoint": {
+          "lat": 17.38484,
+          "lon": 78.48322
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38571,
+            "lon": 78.48243
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM5Njc2OTOhY6NJTkShdqJJTg==",
+      "score": 99.52316284179688,
+      "dist": 476.83334806748843,
+      "info": "search:ta:356009033967693-IN",
+      "poi": {
+        "name": "IR Snacks",
+        "categorySet": [
+          {
+            "id": 7315139
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "snacks"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "snacks"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "King Koti Road, Koti Hospital, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "King Koti Road, Koti Hospital, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38517,
+        "lon": 78.48221
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38607,
+          "lon": 78.48127
+        },
+        "btmRightPoint": {
+          "lat": 17.38427,
+          "lon": 78.48315
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38517,
+            "lon": 78.48207
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQxODQyODmhY6NJTkShdqJJTg==",
+      "score": 99.52296447753906,
+      "dist": 477.03679070397965,
+      "info": "search:ta:356001014184289-IN",
+      "poi": {
+        "name": "Jai Surya Tiffin and Meals",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kanda Swamy Lane, Hanuman Vyamshala, Sultan Bazaar",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kanda Swamy Lane, Hanuman Vyamshala, Sultan Bazaar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38827,
+        "lon": 78.48379
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38917,
+          "lon": 78.48285
+        },
+        "btmRightPoint": {
+          "lat": 17.38737,
+          "lon": 78.48473
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38832,
+            "lon": 78.48378
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQyMTY2OTOhY6NJTkShdqJJTg==",
+      "score": 99.517333984375,
+      "dist": 482.6681064782036,
+      "info": "search:ta:356009034216693-IN",
+      "poi": {
+        "name": "Kranthi Bar & Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rang Mahal Road, Mahatma Gandhi Bus Station, Putli Bowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Rang Mahal Road, Mahatma Gandhi Bus Station, Putli Bowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38087,
+        "lon": 78.4853
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38177,
+          "lon": 78.48436
+        },
+        "btmRightPoint": {
+          "lat": 17.37997,
+          "lon": 78.48624
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38085,
+            "lon": 78.48502
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI5OTI3OTShY6NJTkShdqJJTg==",
+      "score": 99.5169448852539,
+      "dist": 483.0587586715905,
+      "info": "search:ta:356009032992794-IN",
+      "poi": {
+        "name": "Jai Bhavani Fast Food Centre",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Road, Govt High School Nayabazar, Ramkote",
+        "municipalitySubdivision": "Venkateswara Colony",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Road, Govt High School Nayabazar, Ramkote, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38928,
+        "lon": 78.48592
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39018,
+          "lon": 78.48498
+        },
+        "btmRightPoint": {
+          "lat": 17.38838,
+          "lon": 78.48686
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38924,
+            "lon": 78.48575
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQyMTQwOTOhY6NJTkShdqJJTg==",
+      "score": 99.51141357421875,
+      "dist": 488.5836456493834,
+      "info": "search:ta:356001014214093-IN",
+      "poi": {
+        "name": "Hotel Basara",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Bus Stop Road, Osmania Medical College, Putlibowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Bus Stop Road, Osmania Medical College, Putlibowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38108,
+        "lon": 78.48462
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38198,
+          "lon": 78.48368
+        },
+        "btmRightPoint": {
+          "lat": 17.38018,
+          "lon": 78.48556
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38096,
+            "lon": 78.48459
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQyMTExMDShY6NJTkShdqJJTg==",
+      "score": 99.51131439208984,
+      "dist": 488.68184702493795,
+      "info": "search:ta:356001014211104-IN",
+      "poi": {
+        "name": "Hotel Thala",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Gujarati Galli Road, Sri Gujarati Vidya Mandir, Sultan Bazaar",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Gujarati Galli Road, Sri Gujarati Vidya Mandir, Sultan Bazaar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38825,
+        "lon": 78.4836
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38915,
+          "lon": 78.48266
+        },
+        "btmRightPoint": {
+          "lat": 17.38735,
+          "lon": 78.48454
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38829,
+            "lon": 78.48359
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI4NTc2MTmhY6NJTkShdqJJTg==",
+      "score": 99.50981903076172,
+      "dist": 490.17918413205285,
+      "info": "search:ta:356009032857619-IN",
+      "poi": {
+        "name": "Hanuman Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kanda Swamy Lane, Hanuman Vyamshala, Koti",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kanda Swamy Lane, Hanuman Vyamshala, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38885,
+        "lon": 78.48445
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38975,
+          "lon": 78.48351
+        },
+        "btmRightPoint": {
+          "lat": 17.38795,
+          "lon": 78.48539
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38842,
+            "lon": 78.48451
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI0OTc5MzehY6NJTkShdqJJTg==",
+      "score": 99.50946807861328,
+      "dist": 490.53293827655745,
+      "info": "search:ta:356009032497937-IN",
+      "poi": {
+        "name": "Shri Hanuman Vyayam Shala",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Road, Hvs Complex, Koti",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500029",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Road, Hvs Complex, Koti, Hyderabad, Telangana, 500029",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38856,
+        "lon": 78.48397
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38952,
+          "lon": 78.48297
+        },
+        "btmRightPoint": {
+          "lat": 17.3876,
+          "lon": 78.48497
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38876,
+            "lon": 78.48495
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDU2MzM1NjKhY6NJTkShdqJJTg==",
+      "score": 99.5093002319336,
+      "dist": 490.6993846732958,
+      "info": "search:ta:356009005633562-IN",
+      "poi": {
+        "name": "Sherton Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rang Mahal Road, Putli Bowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Rang Mahal Road, Putli Bowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38115,
+        "lon": 78.48444
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38205,
+          "lon": 78.4835
+        },
+        "btmRightPoint": {
+          "lat": 17.38025,
+          "lon": 78.48538
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38101,
+            "lon": 78.48439
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQxNTk5MzShY6NJTkShdqJJTg==",
+      "score": 99.50581359863281,
+      "dist": 494.18350310727385,
+      "info": "search:ta:356009034159934-IN",
+      "poi": {
+        "name": "Sri Venkat Lakshmi Mess",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Turrebaz Khan Road, Osmania Medical College, Putlibowli",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Turrebaz Khan Road, Osmania Medical College, Putlibowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38308,
+        "lon": 78.4825
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38398,
+          "lon": 78.48156
+        },
+        "btmRightPoint": {
+          "lat": 17.38218,
+          "lon": 78.48344
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38313,
+            "lon": 78.48255
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMjQyOTQ2NTihY6NJTkShdqJJTg==",
+      "score": 99.50159454345703,
+      "dist": 498.4029851477941,
+      "info": "search:ta:356009024294658-IN",
+      "poi": {
+        "name": "Tirumala Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ramkoti Main Road, Aditya Hospital, Ramkote",
+        "municipalitySubdivision": "Venkateswara Colony",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Ramkoti Main Road, Aditya Hospital, Ramkote, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38942,
+        "lon": 78.48592
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39032,
+          "lon": 78.48498
+        },
+        "btmRightPoint": {
+          "lat": 17.38852,
+          "lon": 78.48686
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38943,
+            "lon": 78.48589
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDU3MDU0ODihY6NJTkShdqJJTg==",
+      "score": 99.49137115478516,
+      "dist": 508.62516649162336,
+      "info": "search:ta:356009005705488-IN",
+      "poi": {
+        "name": "New Biryani Palace",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rang Mahal Road, Putli Bowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Rang Mahal Road, Putli Bowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38138,
+        "lon": 78.48377
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38228,
+          "lon": 78.48283
+        },
+        "btmRightPoint": {
+          "lat": 17.38048,
+          "lon": 78.48471
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38124,
+            "lon": 78.48372
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM2MzE3NjKhY6NJTkShdqJJTg==",
+      "score": 99.49118041992188,
+      "dist": 508.8196105047447,
+      "info": "search:ta:356001013631762-IN",
+      "poi": {
+        "name": "Sri Venkata Lakshmi Mess",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Cross Road, Osmania Medical College, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Cross Road, Osmania Medical College, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3835,
+        "lon": 78.48217
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3844,
+          "lon": 78.48123
+        },
+        "btmRightPoint": {
+          "lat": 17.3826,
+          "lon": 78.48311
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.3834,
+            "lon": 78.48224
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ4MjEzNTihY6NJTkShdqJJTg==",
+      "score": 99.48808288574219,
+      "dist": 511.9133326835179,
+      "info": "search:ta:356009034821358-IN",
+      "poi": {
+        "name": "MS Food Court",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rang Mahal Road, Putlibowli Bus Stop, Putli Bowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Rang Mahal Road, Putlibowli Bus Stop, Putli Bowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38141,
+        "lon": 78.48368
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38231,
+          "lon": 78.48274
+        },
+        "btmRightPoint": {
+          "lat": 17.38051,
+          "lon": 78.48462
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38127,
+            "lon": 78.48363
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM5NDkyNTmhY6NJTkShdqJJTg==",
+      "score": 99.48604583740234,
+      "dist": 513.9560939097604,
+      "info": "search:ta:356001013949259-IN",
+      "poi": {
+        "name": "Om Sai Lakshmi Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kanda Swamy Lane, Hvs High School, Ram Koti",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kanda Swamy Lane, Hvs High School, Ram Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38806,
+        "lon": 78.48307
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38896,
+          "lon": 78.48213
+        },
+        "btmRightPoint": {
+          "lat": 17.38716,
+          "lon": 78.48401
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38808,
+            "lon": 78.48311
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQxOTc3MTihY6NJTkShdqJJTg==",
+      "score": 99.48309326171875,
+      "dist": 516.9063487893156,
+      "info": "search:ta:356009034197718-IN",
+      "poi": {
+        "name": "Shree Hanuman Vyayam Shal Kanda Swamy Lane",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kandaswamy Lane, Koti",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kandaswamy Lane, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38885,
+        "lon": 78.48397
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38975,
+          "lon": 78.48303
+        },
+        "btmRightPoint": {
+          "lat": 17.38795,
+          "lon": 78.48491
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38835,
+            "lon": 78.48404
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM5NzgyNDahY6NJTkShdqJJTg==",
+      "score": 99.47608184814453,
+      "dist": 523.9212775875824,
+      "info": "search:ta:356001013978246-IN",
+      "poi": {
+        "name": "Nawab Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kanda Swamy Lane, Hanuman Vyamshala, Sultan Bazaar",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kanda Swamy Lane, Hanuman Vyamshala, Sultan Bazaar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38858,
+        "lon": 78.48349
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38948,
+          "lon": 78.48255
+        },
+        "btmRightPoint": {
+          "lat": 17.38768,
+          "lon": 78.48443
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38861,
+            "lon": 78.48366
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM2MDAzMDKhY6NJTkShdqJJTg==",
+      "score": 99.47306823730469,
+      "dist": 526.9344973345029,
+      "info": "search:ta:356009033600302-IN",
+      "poi": {
+        "name": "Sri Lalla North Indian & Chinese",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Road, Navajivan Vocational College, Ramkote",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Road, Navajivan Vocational College, Ramkote, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38961,
+        "lon": 78.48555
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39051,
+          "lon": 78.48461
+        },
+        "btmRightPoint": {
+          "lat": 17.38871,
+          "lon": 78.48649
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38963,
+            "lon": 78.48561
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ1ODI0MzihY6NJTkShdqJJTg==",
+      "score": 99.47238159179688,
+      "dist": 527.6165804348601,
+      "info": "search:ta:356009034582438-IN",
+      "poi": {
+        "name": "Sri Venkateswara Curry Point",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kubtiguda Main Road, Ganesh Temple, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kubtiguda Main Road, Ganesh Temple, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38848,
+        "lon": 78.49008
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38938,
+          "lon": 78.48914
+        },
+        "btmRightPoint": {
+          "lat": 17.38758,
+          "lon": 78.49102
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38848,
+            "lon": 78.49012
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQzMzU5OTWhY6NJTkShdqJJTg==",
+      "score": 99.47102355957031,
+      "dist": 528.9772685179379,
+      "info": "search:ta:356001014335995-IN",
+      "poi": {
+        "name": "Devendar Tiffin Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tilak Road, Aditya Hospital, Koti",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Tilak Road, Aditya Hospital, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38959,
+        "lon": 78.48539
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39049,
+          "lon": 78.48445
+        },
+        "btmRightPoint": {
+          "lat": 17.38869,
+          "lon": 78.48633
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38953,
+            "lon": 78.48542
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDE0NTk3NzShY6NJTkShdqJJTg==",
+      "score": 99.46259307861328,
+      "dist": 537.4081335877326,
+      "info": "search:ta:356009001459774-IN",
+      "poi": {
+        "name": "Trishul Tiffins & Meals",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti 'X' Road, Andhra Bank, Sultan Bazar",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti 'X' Road, Andhra Bank, Sultan Bazar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3832,
+        "lon": 78.482
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3841,
+          "lon": 78.48106
+        },
+        "btmRightPoint": {
+          "lat": 17.3823,
+          "lon": 78.48294
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38309,
+            "lon": 78.4819
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ1MzMwNzihY6NJTkShdqJJTg==",
+      "score": 99.45504760742188,
+      "dist": 544.9551969705033,
+      "info": "search:ta:356009034533078-IN",
+      "poi": {
+        "name": "Al Safa Milk & Ice Cream Parlour",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Esamia Bazar Road, Masjid E Abu Bakar, Koti",
+        "municipalitySubdivision": "Mothi Market",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Esamia Bazar Road, Masjid E Abu Bakar, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38292,
+        "lon": 78.49135
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38382,
+          "lon": 78.49041
+        },
+        "btmRightPoint": {
+          "lat": 17.38202,
+          "lon": 78.49229
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38288,
+            "lon": 78.49119
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzg1NDQ4NTOhY6NJTkShdqJJTg==",
+      "score": 99.45455932617188,
+      "dist": 545.4395412379569,
+      "info": "search:ta:356009038544853-IN",
+      "poi": {
+        "name": "Jai Jalram Restaurant",
+        "phone": "+(91)-(90307)-80980",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "4-3-174/1",
+        "streetName": "Kanda Swamy Lane, Arya Kanya Vidyalaya High School, Sultan Bazar",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "4-3-174/1 Kanda Swamy Lane, Arya Kanya Vidyalaya High School, Sultan Bazar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38825,
+        "lon": 78.48285
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38915,
+          "lon": 78.48191
+        },
+        "btmRightPoint": {
+          "lat": 17.38735,
+          "lon": 78.48379
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38819,
+            "lon": 78.48285
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM4NjA4MjWhY6NJTkShdqJJTg==",
+      "score": 99.45307922363281,
+      "dist": 546.9184222704334,
+      "info": "search:ta:356009003860825-IN",
+      "poi": {
+        "name": "Burger House",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Chappal Bazar Road, Masjid, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Chappal Bazar Road, Masjid, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38429,
+        "lon": 78.4918
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38519,
+          "lon": 78.49086
+        },
+        "btmRightPoint": {
+          "lat": 17.38339,
+          "lon": 78.49274
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38429,
+            "lon": 78.49175
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI1MzMyNzehY6NJTkShdqJJTg==",
+      "score": 99.4523696899414,
+      "dist": 547.6290837406605,
+      "info": "search:ta:356009032533277-IN",
+      "poi": {
+        "name": "Lotus Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Moti Market Road, Masjid E Abu Bakar, Koti",
+        "municipalitySubdivision": "Mothi Market",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Moti Market Road, Masjid E Abu Bakar, Koti, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38364,
+        "lon": 78.49166
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38454,
+          "lon": 78.49072
+        },
+        "btmRightPoint": {
+          "lat": 17.38274,
+          "lon": 78.4926
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38366,
+            "lon": 78.49178
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMjUwODcwNDGhY6NJTkShdqJJTg==",
+      "score": 99.4509048461914,
+      "dist": 549.0966803927956,
+      "info": "search:ta:356009025087041-IN",
+      "poi": {
+        "name": "Flavours",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38923,
+        "lon": 78.48403
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39013,
+          "lon": 78.48309
+        },
+        "btmRightPoint": {
+          "lat": 17.38833,
+          "lon": 78.48497
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38929,
+            "lon": 78.48402
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQxODc4NTChY6NJTkShdqJJTg==",
+      "score": 99.4491958618164,
+      "dist": 550.8070875015305,
+      "info": "search:ta:356001014187850-IN",
+      "poi": {
+        "name": "Jai Bhavani Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Cross Road, Ap State Co-Operative Bank, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Cross Road, Ap State Co-Operative Bank, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38296,
+        "lon": 78.48197
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38386,
+          "lon": 78.48103
+        },
+        "btmRightPoint": {
+          "lat": 17.38206,
+          "lon": 78.48291
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38299,
+            "lon": 78.482
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM4OTY4MTShY6NJTkShdqJJTg==",
+      "score": 99.44480895996094,
+      "dist": 555.1874824224188,
+      "info": "search:ta:356009003896814-IN",
+      "poi": {
+        "name": "Krishna Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jam Bagh Road, Osmania Medical College, Troop Bazaar",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Jam Bagh Road, Osmania Medical College, Troop Bazaar, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38325,
+        "lon": 78.4818
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38433,
+          "lon": 78.48067
+        },
+        "btmRightPoint": {
+          "lat": 17.38217,
+          "lon": 78.48293
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38225,
+            "lon": 78.48138
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMDQ3MjIyMTKhY6NJTkShdqJJTg==",
+      "score": 99.44477081298828,
+      "dist": 555.2277895043694,
+      "info": "search:ta:356001004722212-IN",
+      "poi": {
+        "name": "Sri Guru Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Cross Road, Osmania Medical College, Putlibowli",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Cross Road, Osmania Medical College, Putlibowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38308,
+        "lon": 78.48187
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38398,
+          "lon": 78.48093
+        },
+        "btmRightPoint": {
+          "lat": 17.38218,
+          "lon": 78.48281
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.3831,
+            "lon": 78.48189
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDU3MDM2ODGhY6NJTkShdqJJTg==",
+      "score": 99.43083953857422,
+      "dist": 569.1606257830865,
+      "info": "search:ta:356009005703681-IN",
+      "poi": {
+        "name": "Sri Venkata Sai Meals & Fast Food",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Rang Mahal Road, Putli Bowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Rang Mahal Road, Putli Bowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38189,
+        "lon": 78.48244
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38279,
+          "lon": 78.4815
+        },
+        "btmRightPoint": {
+          "lat": 17.38099,
+          "lon": 78.48338
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38173,
+            "lon": 78.48237
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzIzODU2NzehY6NJTkShdqJJTg==",
+      "score": 99.4211654663086,
+      "dist": 578.8322121207194,
+      "info": "search:ta:356009032385677-IN",
+      "poi": {
+        "name": "Sri Ragavendra Grand",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Road, Big Bazaar, Kachiguda",
+        "municipalitySubdivision": "Venkateswara Colony",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Road, Big Bazaar, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38994,
+        "lon": 78.48842
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39084,
+          "lon": 78.48748
+        },
+        "btmRightPoint": {
+          "lat": 17.38904,
+          "lon": 78.48936
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38985,
+            "lon": 78.48859
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM4NTEwNzOhY6NJTkShdqJJTg==",
+      "score": 99.42111206054688,
+      "dist": 578.8879612796256,
+      "info": "search:ta:356009003851073-IN",
+      "poi": {
+        "name": "Sai Krupa Meals",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Turrebaz Khan Road, Koti Bus Stop, Putlibowli",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Turrebaz Khan Road, Koti Bus Stop, Putlibowli, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38176,
+        "lon": 78.48243
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38266,
+          "lon": 78.48149
+        },
+        "btmRightPoint": {
+          "lat": 17.38086,
+          "lon": 78.48337
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38171,
+            "lon": 78.48242
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ1OTQyNDKhY6NJTkShdqJJTg==",
+      "score": 99.41798400878906,
+      "dist": 582.0191220910735,
+      "info": "search:ta:356009034594242-IN",
+      "poi": {
+        "name": "Yoga Meditation Camp",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Railway Station Road, Ghmc Park, Kachiguda",
+        "municipalitySubdivision": "Barkatpura",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Railway Station Road, Ghmc Park, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38903,
+        "lon": 78.4902
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38993,
+          "lon": 78.48926
+        },
+        "btmRightPoint": {
+          "lat": 17.38813,
+          "lon": 78.49114
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38903,
+            "lon": 78.49015
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM2MTU4NTOhY6NJTkShdqJJTg==",
+      "score": 99.39987182617188,
+      "dist": 600.1267988066458,
+      "info": "search:ta:356009033615853-IN",
+      "poi": {
+        "name": "Scoops Ice Cream Parlour",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Sultan Bazar Line, Police Station, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Sultan Bazar Line, Police Station, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38932,
+        "lon": 78.49009
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39022,
+          "lon": 78.48915
+        },
+        "btmRightPoint": {
+          "lat": 17.38842,
+          "lon": 78.49103
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38931,
+            "lon": 78.49017
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ2MjA5NjahY6NJTkShdqJJTg==",
+      "score": 99.3978500366211,
+      "dist": 602.1534402436856,
+      "info": "search:ta:356009034620966-IN",
+      "poi": {
+        "name": "Balaji Fast Food",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Railway Station Road, Kachiguda",
+        "municipalitySubdivision": "Barkatpura",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Railway Station Road, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38927,
+        "lon": 78.49019
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39017,
+          "lon": 78.48925
+        },
+        "btmRightPoint": {
+          "lat": 17.38837,
+          "lon": 78.49113
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38928,
+            "lon": 78.49016
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTc3MDUxNzKhY6NJTkShdqJJTg==",
+      "score": 99.39747619628906,
+      "dist": 602.5218834192835,
+      "info": "search:ta:356009017705172-IN",
+      "poi": {
+        "name": "GHMC Victory Play Ground",
+        "categorySet": [
+          {
+            "id": 7320
+          }
+        ],
+        "categories": [
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cbs Road, Masjid E Nizami, Koti Hyderabad",
+        "municipalitySubdivision": "Esamia Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Cbs Road, Masjid E Nizami, Koti Hyderabad, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38108,
+        "lon": 78.49062
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38198,
+          "lon": 78.48968
+        },
+        "btmRightPoint": {
+          "lat": 17.38018,
+          "lon": 78.49156
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38118,
+            "lon": 78.49034
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM2NDg5ODihY6NJTkShdqJJTg==",
+      "score": 99.38970184326172,
+      "dist": 610.2951258187289,
+      "info": "search:ta:356009003648988-IN",
+      "poi": {
+        "name": "Vyshnavi Tiffins",
+        "phone": "+(91)-(90323)-21520",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Maharani Jhansi Road, Bagga Wines, Puthi Bowli",
+        "municipalitySubdivision": "Bashetty",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Maharani Jhansi Road, Bagga Wines, Puthi Bowli, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38094,
+        "lon": 78.48283
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38184,
+          "lon": 78.48189
+        },
+        "btmRightPoint": {
+          "lat": 17.38004,
+          "lon": 78.48377
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38095,
+            "lon": 78.48279
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDU4NTQ2MTihY6NJTkShdqJJTg==",
+      "score": 99.35592651367188,
+      "dist": 644.0737535947491,
+      "info": "search:ta:356009005854618-IN",
+      "poi": {
+        "name": "Suvidhi Punjab Dhaba",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Osmania Medical College Road, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Osmania Medical College Road, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38253,
+        "lon": 78.48121
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38343,
+          "lon": 78.48027
+        },
+        "btmRightPoint": {
+          "lat": 17.38163,
+          "lon": 78.48215
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38237,
+            "lon": 78.48112
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMjUyMDE4NDKhY6NJTkShdqJJTg==",
+      "score": 99.35389709472656,
+      "dist": 646.0991834454996,
+      "info": "search:ta:356009025201842-IN",
+      "poi": {
+        "name": "Deep Freeze Ice Cream Parlour",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Railway Station Road, Jagruti Degree And Pg College, Ramkote",
+        "municipalitySubdivision": "Venkateswara Colony",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Railway Station Road, Jagruti Degree And Pg College, Ramkote, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.39081,
+        "lon": 78.48662
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39171,
+          "lon": 78.48568
+        },
+        "btmRightPoint": {
+          "lat": 17.38991,
+          "lon": 78.48756
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39084,
+            "lon": 78.4865
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM2NjIwODKhY6NJTkShdqJJTg==",
+      "score": 99.34681701660156,
+      "dist": 653.1864495792432,
+      "info": "search:ta:356001013662082-IN",
+      "poi": {
+        "name": "Sri Bhargavi Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Cheppal Bazar Road, Haree Masjid, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Cheppal Bazar Road, Haree Masjid, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38748,
+        "lon": 78.49228
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38838,
+          "lon": 78.49134
+        },
+        "btmRightPoint": {
+          "lat": 17.38658,
+          "lon": 78.49322
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38746,
+            "lon": 78.49232
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM3OTU3NjWhY6NJTkShdqJJTg==",
+      "score": 99.34015655517578,
+      "dist": 659.8450690012135,
+      "info": "search:ta:356001013795765-IN",
+      "poi": {
+        "name": "Sai Bojanalayam",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Tilak Road, Bawarchi Hotel, Ram Koti",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500091",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Tilak Road, Bawarchi Hotel, Ram Koti, Hyderabad, Telangana, 500091",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38818,
+        "lon": 78.48145
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38908,
+          "lon": 78.48051
+        },
+        "btmRightPoint": {
+          "lat": 17.38728,
+          "lon": 78.48239
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38805,
+            "lon": 78.4814
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQyMjg4NTihY6NJTkShdqJJTg==",
+      "score": 99.33930969238281,
+      "dist": 660.6913771809488,
+      "info": "search:ta:356009034228858-IN",
+      "poi": {
+        "name": "Famous Bread Omelet",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Railway Station Road, Big Bazaar, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Railway Station Road, Big Bazaar, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.39051,
+        "lon": 78.48903
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39141,
+          "lon": 78.48809
+        },
+        "btmRightPoint": {
+          "lat": 17.38961,
+          "lon": 78.48997
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39054,
+            "lon": 78.48895
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM4NzU1NjehY6NJTkShdqJJTg==",
+      "score": 99.33222961425781,
+      "dist": 667.770775448784,
+      "info": "search:ta:356009003875567-IN",
+      "poi": {
+        "name": "Meenakshi Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jambagh Road, Rakshita Blood Bank, Gowli Guda",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Jambagh Road, Rakshita Blood Bank, Gowli Guda, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38256,
+        "lon": 78.48095
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38346,
+          "lon": 78.48001
+        },
+        "btmRightPoint": {
+          "lat": 17.38166,
+          "lon": 78.48189
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38248,
+            "lon": 78.48091
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM4NDA0NjihY6NJTkShdqJJTg==",
+      "score": 99.33222961425781,
+      "dist": 667.770775448784,
+      "info": "search:ta:356009003840468-IN",
+      "poi": {
+        "name": "Surya Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jambagh Road, Rakshita Blood Bank, Gowli Guda",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Jambagh Road, Rakshita Blood Bank, Gowli Guda, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38256,
+        "lon": 78.48095
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38346,
+          "lon": 78.48001
+        },
+        "btmRightPoint": {
+          "lat": 17.38166,
+          "lon": 78.48189
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38248,
+            "lon": 78.48091
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTg0NTU1MTihY6NJTkShdqJJTg==",
+      "score": 99.33172607421875,
+      "dist": 668.2756525183044,
+      "info": "search:ta:356009018455518-IN",
+      "poi": {
+        "name": "Food Court",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Cross Road, Big Bazaar, Hyderguda Hyderabad",
+        "municipalitySubdivision": "Venkateswara Colony",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Cross Road, Big Bazaar, Hyderguda Hyderabad, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3908,
+        "lon": 78.48835
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3917,
+          "lon": 78.48741
+        },
+        "btmRightPoint": {
+          "lat": 17.3899,
+          "lon": 78.48929
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39086,
+            "lon": 78.48836
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQxMDQ0ODehY6NJTkShdqJJTg==",
+      "score": 99.33126068115234,
+      "dist": 668.740541387136,
+      "info": "search:ta:356001014104487-IN",
+      "poi": {
+        "name": "Kwality Ice Cream",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Cross Road, Ap State Co-Operative Bank, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Cross Road, Ap State Co-Operative Bank, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38256,
+        "lon": 78.48094
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38346,
+          "lon": 78.48
+        },
+        "btmRightPoint": {
+          "lat": 17.38166,
+          "lon": 78.48188
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38248,
+            "lon": 78.48091
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTM1OTI4ODShY6NJTkShdqJJTg==",
+      "score": 99.33126068115234,
+      "dist": 668.740541387136,
+      "info": "search:ta:356001013592884-IN",
+      "poi": {
+        "name": "Punjabi Dhaba",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Cross Road, Ap State Co-Operative Bank, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Cross Road, Ap State Co-Operative Bank, Koti, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38256,
+        "lon": 78.48094
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38346,
+          "lon": 78.48
+        },
+        "btmRightPoint": {
+          "lat": 17.38166,
+          "lon": 78.48188
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38248,
+            "lon": 78.48091
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQ3OTE3MjWhY6NJTkShdqJJTg==",
+      "score": 99.32884979248047,
+      "dist": 671.1480005248505,
+      "info": "search:ta:356009034791725-IN",
+      "poi": {
+        "name": "Sri Sai Juice Parlour",
+        "categorySet": [
+          {
+            "id": 7315149
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "yogurt/juice bar"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "yogurt/juice bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Cross Road, Police Station, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Cross Road, Police Station, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.39004,
+        "lon": 78.49018
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39094,
+          "lon": 78.48924
+        },
+        "btmRightPoint": {
+          "lat": 17.38914,
+          "lon": 78.49112
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39003,
+            "lon": 78.49027
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI2NDAxOTOhY6NJTkShdqJJTg==",
+      "score": 99.32500457763672,
+      "dist": 674.9970881556301,
+      "info": "search:ta:356009032640193-IN",
+      "poi": {
+        "name": "Madhusala Wines Nest Bar & Restaurant",
+        "phone": "+(91)-(40)-66789320",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "3-3-40-41",
+        "streetName": "Kachiguda Railway Station Road, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "3-3-40-41 Kachiguda Railway Station Road, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3901,
+        "lon": 78.49015
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.391,
+          "lon": 78.48921
+        },
+        "btmRightPoint": {
+          "lat": 17.3892,
+          "lon": 78.49109
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39009,
+            "lon": 78.49028
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzQwMjQ1OTKhY6NJTkShdqJJTg==",
+      "score": 99.32362365722656,
+      "dist": 676.3778349446691,
+      "info": "search:ta:356009034024592-IN",
+      "poi": {
+        "name": "Lakshmi Sai Cool Drinks",
+        "categorySet": [
+          {
+            "id": 7315149
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "yogurt/juice bar"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "yogurt/juice bar"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Cross Road, Police Station, Kachiguda",
+        "municipalitySubdivision": "Kuthbiguda",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Cross Road, Police Station, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.39009,
+        "lon": 78.49019
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39099,
+          "lon": 78.48925
+        },
+        "btmRightPoint": {
+          "lat": 17.38919,
+          "lon": 78.49113
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39008,
+            "lon": 78.49028
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM3Mzk5MDihY6NJTkShdqJJTg==",
+      "score": 99.321044921875,
+      "dist": 678.9551842959628,
+      "info": "search:ta:356009003739908-IN",
+      "poi": {
+        "name": "Priya Tiffin Centre",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "5/1/946",
+        "streetName": "Maharani Jhansi Road, Rakshita Blood Bank, Gowli Guda",
+        "municipalitySubdivision": "Putli Bowli",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "5/1/946 Maharani Jhansi Road, Rakshita Blood Bank, Gowli Guda, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38171,
+        "lon": 78.48131
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38261,
+          "lon": 78.48037
+        },
+        "btmRightPoint": {
+          "lat": 17.38081,
+          "lon": 78.48225
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38167,
+            "lon": 78.48127
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM5NTQ1MzWhY6NJTkShdqJJTg==",
+      "score": 99.31925964355469,
+      "dist": 680.7366596405162,
+      "info": "search:ta:356009003954535-IN",
+      "poi": {
+        "name": "Rockstar Gymnasium",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Nh9, Ravendra Bar And Restaurant, Jam Bagh",
+        "municipalitySubdivision": "Bashetty",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Nh9, Ravendra Bar And Restaurant, Jam Bagh, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.37992,
+        "lon": 78.48312
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38082,
+          "lon": 78.48218
+        },
+        "btmRightPoint": {
+          "lat": 17.37902,
+          "lon": 78.48406
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38013,
+            "lon": 78.48313
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDM3Mzc2MDahY6NJTkShdqJJTg==",
+      "score": 99.31722259521484,
+      "dist": 682.7808689742509,
+      "info": "search:ta:356009003737606-IN",
+      "poi": {
+        "name": "Mohan Fast Foods",
+        "categorySet": [
+          {
+            "id": 7315015
+          }
+        ],
+        "categories": [
+          "fast food",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fast food"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Jam Bagh Road, Central Gurudwar, Gowliguda",
+        "municipalitySubdivision": "Putli Bowli",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Jam Bagh Road, Central Gurudwar, Gowliguda, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38141,
+        "lon": 78.48148
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38231,
+          "lon": 78.48054
+        },
+        "btmRightPoint": {
+          "lat": 17.38051,
+          "lon": 78.48242
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38139,
+            "lon": 78.48144
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDU0Njk0NzKhY6NJTkShdqJJTg==",
+      "score": 99.31401062011719,
+      "dist": 685.9905593786254,
+      "info": "search:ta:356009005469472-IN",
+      "poi": {
+        "name": "Apsara Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "5/01/504",
+        "streetName": "Jambagh Road, Rakshita Blood Bank, Rakshita Blood Bank, Gowli Guda",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "5/01/504 Jambagh Road, Rakshita Blood Bank, Rakshita Blood Bank, Gowli Guda, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38268,
+        "lon": 78.48071
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38358,
+          "lon": 78.47977
+        },
+        "btmRightPoint": {
+          "lat": 17.38178,
+          "lon": 78.48165
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38261,
+            "lon": 78.48067
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzc2MzIyNDShY6NJTkShdqJJTg==",
+      "score": 99.31385803222656,
+      "dist": 686.1411490773955,
+      "info": "search:ta:356009037632244-IN",
+      "poi": {
+        "name": "Jumani Ke Ice Cream Parlour",
+        "categorySet": [
+          {
+            "id": 7315078
+          }
+        ],
+        "categories": [
+          "ice cream parlor",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "ice cream parlor"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Railway Station Road, Maa Gayathri Plaza, Kachiguda",
+        "municipalitySubdivision": "Barkatpura",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500031",
+        "extendedPostalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Railway Station Road, Maa Gayathri Plaza, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3901,
+        "lon": 78.49034
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.391,
+          "lon": 78.4894
+        },
+        "btmRightPoint": {
+          "lat": 17.3892,
+          "lon": 78.49128
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39011,
+            "lon": 78.49028
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMTg0OTMwNDShY6NJTkShdqJJTg==",
+      "score": 99.31039428710938,
+      "dist": 689.6072027774496,
+      "info": "search:ta:356009018493044-IN",
+      "poi": {
+        "name": "Nandini Cafeteria",
+        "categorySet": [
+          {
+            "id": 7315050
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "vegetarian"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "vegetarian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Afzalgung Road, Mgbs Bus Stand, Gowliguda",
+        "municipalitySubdivision": "Kamala Nagar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Afzalgung Road, Mgbs Bus Stand, Gowliguda, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.37903,
+        "lon": 78.48494
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.37993,
+          "lon": 78.484
+        },
+        "btmRightPoint": {
+          "lat": 17.37813,
+          "lon": 78.48588
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.37926,
+            "lon": 78.48514
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMDQwMTcxODihY6NJTkShdqJJTg==",
+      "score": 99.30957794189453,
+      "dist": 690.4226023104515,
+      "info": "search:ta:356009004017188-IN",
+      "poi": {
+        "name": "Star Flex Gymnasium",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Nh9, Ravendra Bar And Restaurant, Jam Bagh",
+        "municipalitySubdivision": "Bashetty",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500012",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Nh9, Ravendra Bar And Restaurant, Jam Bagh, Hyderabad, Telangana, 500012",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.37986,
+        "lon": 78.48305
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38076,
+          "lon": 78.48211
+        },
+        "btmRightPoint": {
+          "lat": 17.37896,
+          "lon": 78.48399
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38008,
+            "lon": 78.48317
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDEwMTQ0NjQ3MDWhY6NJTkShdqJJTg==",
+      "score": 99.30789184570312,
+      "dist": 692.1067827113179,
+      "info": "search:ta:356001014464705-IN",
+      "poi": {
+        "name": "Annapurna Hotel",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Eden Garden Road, Government Hospital, Koti",
+        "municipalitySubdivision": "Ramkoti",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Eden Garden Road, Government Hospital, Koti, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.3907,
+        "lon": 78.48408
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.3916,
+          "lon": 78.48314
+        },
+        "btmRightPoint": {
+          "lat": 17.3898,
+          "lon": 78.48502
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39074,
+            "lon": 78.484
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzg1OTY4NTKhY6NJTkShdqJJTg==",
+      "score": 99.3069839477539,
+      "dist": 693.0196788130427,
+      "info": "search:ta:356009038596852-IN",
+      "poi": {
+        "name": "Dream Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Kachiguda Railway Station Road, Big Bazaar, Kachiguda",
+        "municipalitySubdivision": "Venkateswara Colony",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500027",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Kachiguda Railway Station Road, Big Bazaar, Kachiguda, Hyderabad, Telangana, 500027",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.39098,
+        "lon": 78.48854
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.39188,
+          "lon": 78.4876
+        },
+        "btmRightPoint": {
+          "lat": 17.39008,
+          "lon": 78.48948
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.39084,
+            "lon": 78.48852
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI4OTM1MzOhY6NJTkShdqJJTg==",
+      "score": 99.29927062988281,
+      "dist": 700.728714336132,
+      "info": "search:ta:356009032893533-IN",
+      "poi": {
+        "name": "Fitness Club",
+        "categorySet": [
+          {
+            "id": 7320002
+          }
+        ],
+        "categories": [
+          "fitness club center",
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "fitness club center"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Road, Masjid Zorawar Khan, Abids",
+        "municipalitySubdivision": "Inder Bagh",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Road, Masjid Zorawar Khan, Abids, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38759,
+        "lon": 78.48068
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38849,
+          "lon": 78.47974
+        },
+        "btmRightPoint": {
+          "lat": 17.38669,
+          "lon": 78.48162
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38765,
+            "lon": 78.4806
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzI5ODA0NTShY6NJTkShdqJJTg==",
+      "score": 99.29537963867188,
+      "dist": 704.6209087103599,
+      "info": "search:ta:356009032980454-IN",
+      "poi": {
+        "name": "Aerofit Sports",
+        "categorySet": [
+          {
+            "id": 7320
+          }
+        ],
+        "categories": [
+          "sports center"
+        ],
+        "classifications": [
+          {
+            "code": "SPORTS_CENTER",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "sports center"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "King Koti Road, Koti Ent Hospital, Koti",
+        "municipalitySubdivision": "Troop Bazar",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "King Koti Road, Koti Ent Hospital, Koti, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38535,
+        "lon": 78.48007
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38625,
+          "lon": 78.47913
+        },
+        "btmRightPoint": {
+          "lat": 17.38445,
+          "lon": 78.48101
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38532,
+            "lon": 78.48022
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzM1NTk0OTahY6NJTkShdqJJTg==",
+      "score": 99.29460906982422,
+      "dist": 705.3890205592687,
+      "info": "search:ta:356009033559496-IN",
+      "poi": {
+        "name": "Angel Restaurant",
+        "categorySet": [
+          {
+            "id": 7315023
+          }
+        ],
+        "categories": [
+          "indian",
+          "restaurant"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "indian"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Koti Road, Masjid Zorawar Khan, Abids",
+        "municipalitySubdivision": "Vishwakarma",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500001",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Koti Road, Masjid Zorawar Khan, Abids, Hyderabad, Telangana, 500001",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.38815,
+        "lon": 78.48093
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38905,
+          "lon": 78.47999
+        },
+        "btmRightPoint": {
+          "lat": 17.38725,
+          "lon": 78.48187
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.38796,
+            "lon": 78.48102
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "g6JpZK8zNTYwMDkwMzc1MzEzOTOhY6NJTkShdqJJTg==",
+      "score": 99.29353332519531,
+      "dist": 706.466468387098,
+      "info": "search:ta:356009037531393-IN",
+      "poi": {
+        "name": "Annapoorna",
+        "categorySet": [
+          {
+            "id": 7315050
+          }
+        ],
+        "categories": [
+          "restaurant",
+          "vegetarian"
+        ],
+        "classifications": [
+          {
+            "code": "RESTAURANT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "restaurant"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "vegetarian"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Afzal Gunj Road, Near Durga Matha Mandir, Gowliguda",
+        "municipalitySubdivision": "Bashetty",
+        "municipality": "Hyderabad",
+        "countrySecondarySubdivision": "Hyderabad",
+        "countrySubdivision": "Telangana",
+        "postalCode": "500095",
+        "countryCode": "IN",
+        "country": "India",
+        "countryCodeISO3": "IND",
+        "freeformAddress": "Afzal Gunj Road, Near Durga Matha Mandir, Gowliguda, Hyderabad, Telangana, 500095",
+        "localName": "Hyderabad"
+      },
+      "position": {
+        "lat": 17.37981,
+        "lon": 78.48286
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 17.38071,
+          "lon": 78.48192
+        },
+        "btmRightPoint": {
+          "lat": 17.37891,
+          "lon": 78.4838
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 17.37972,
+            "lon": 78.48297
+          }
+        }
+      ]
+    }
+  ]
+}

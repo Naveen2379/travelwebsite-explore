@@ -1,0 +1,72 @@
+.haltStationClickStyle {
+    width: 100px;
+    height: 50px;
+    background-color: honeydew;
+    border-radius: 5px;
+}
+
+.horizontal {
+    display: inline-block;
+    width: 153px;
+}
+
+/*.haltStationStyle {
+    display: flex;
+    justify-content: center;
+    max-width: 1700px !important;
+}*/
+
+/*.haltStationStyle:nth-last-child(3) hr{
+    display: none;
+}*/
+
+/*.haltStation {
+    margin-left: 100px;
+}*/
+
+.buttonLine {
+    width: 15%;
+}
+
+.buttonStyle {
+    width: 100%;
+}
+
+/*.buttonStyle:last-child hr{
+    display: none;
+}*/
+.haltStationClickStyle.buttonLine.buttonStyle.td:nth-child(2) hr hr {
+    display: none;
+}
+
+.horizontal:last-child hr{
+    display: none;
+}
+
+/*.buttonStyle:nth-last-child(1) hr{
+    display: none;
+}*/
+
+/*.col:last-child h1 {
+    background-color: red;
+}*/
+
+/*hr:last-child {
+    background-color: green;
+}*/
+
+.colStyle {
+    flex-wrap: nowrap;
+    max-width: 1000px;
+}
+
+
+
+
+button:hover{background-color:orange;}
+
+button:focus{background-color:red;}
+
+
+
+
