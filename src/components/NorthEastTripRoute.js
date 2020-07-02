@@ -1,15 +1,11 @@
 import React from "react";
 import {Row, Col} from "react-bootstrap";
-import '../styles/NorthEastTripRoute.css'
-import HaltStation from "./HaltStation";
+import '../styles/NorthEastTripRoute.css';
 
 
 export default class NorthEastTripRoute extends React.Component {
     constructor(props) {
         super(props);
-        this.state = {
-            isHaltStationExisted: true
-        };
         this.handleRouteChange = this.handleRouteChange.bind(this);
     }
 

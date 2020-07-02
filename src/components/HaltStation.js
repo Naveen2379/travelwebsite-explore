@@ -13,7 +13,7 @@ export default function HaltStation(props) {
         <div>
             <Button className='haltStationClickStyle' onClick={() => props.showVisitingPlacesMap(haltStationName)}>{haltStationName}</Button>
             <span><hr className="horizontal"/></span>
-            <div>{(props.isHaltStationExisted && (props.clickedHaltStation === haltStationName)) ? <TestFetchTomTom haltStationName={haltStationName}/> : ''}</div>
+            {/*<div>{(props.isHaltStationExisted && (props.clickedHaltStation === haltStationName)) ? <TestFetchTomTom haltStationName={haltStationName}/> : ''}</div>*/}
         </div>
     );
 }

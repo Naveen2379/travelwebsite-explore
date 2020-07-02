@@ -5,6 +5,7 @@ import HaltStation from "./HaltStation";
 import '../styles/NorthEastTripRoutes.css'
 
 import {Row, Col, Container} from "react-bootstrap";
+import TestFetchTomTom from "./TestFetchTomTom";
 
 
 export default class NorthEastTripRoutes extends React.Component {
@@ -15,7 +16,7 @@ export default class NorthEastTripRoutes extends React.Component {
             haltStationsInfo: [],
             routeId: null,
             isHaltStationExisted: false,
-            clickedHaltStation: null
+            clickedHaltStation: ''
         };
         this.showRoute = this.showRoute.bind(this);
         this.showVisitingPlaces = this.showVisitingPlaces.bind(this);
@@ -30,7 +31,7 @@ export default class NorthEastTripRoutes extends React.Component {
                 routesDetails: result
             })
         })
-            .catch(error => console.log('error', error));;
+            .catch(error => console.log('error', error));
     };
 
     showRoute(changedRouteId) {
@@ -43,6 +44,7 @@ export default class NorthEastTripRoutes extends React.Component {
                         haltStationsInfo: result[0].stations,
                         routeId: changedRouteId,
                         isHaltStationExisted: false,
+                        clickedHaltStation: ''
                     })
                 )})
             .catch(err => console.log(err));
@@ -72,21 +74,26 @@ export default class NorthEastTripRoutes extends React.Component {
         });
 
         return (
+            <Container>
                 <Row className='routesStyle'>
                     <Col className='routeNumberStyle'>
                         { isEmpty(this.state.routesDetails) ? '' : this.state.routesDetails.map( (routeDetails) => {
-                        return (
-                            <NorthEastTripRoute key={routeDetails.routeId}
-                                                routeDetails={routeDetails}
-                                                showRoute={this.showRoute}
-                                                routeId={parseInt(this.state.routeId)} />
-                        )
-                    })}</Col>
+                            return (
+                                <NorthEastTripRoute key={routeDetails.routeId}
+                                                    routeDetails={routeDetails}
+                                                    showRoute={this.showRoute}
+                                                    routeId={parseInt(this.state.routeId)} />
+                            )
+                        })}</Col>
                     <Col className='haltStations'>
                         {isEmpty(this.state.haltStationsInfo) ? '' : showHaltStations}
                     </Col>
                 </Row>
+                <Row>
+                    {this.state.clickedHaltStation ? <TestFetchTomTom haltStationName={this.state.clickedHaltStation}/> : ''}
+                </Row>
+            </Container>
+
         );
     }
-
 }
