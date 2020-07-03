@@ -60,6 +60,16 @@
     max-width: 1000px;
 }
 
+.buttonLineAlignment {
+    display: flex;
+    height: fit-content;
+    margin-top: 25px;
+}
+
+.buttonLineAlignment:last-child hr {
+    display: none;
+}
+
 
 
 

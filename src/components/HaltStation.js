@@ -10,10 +10,10 @@ import TestFetchTomTom from "./TestFetchTomTom";
 export default function HaltStation(props) {
     const haltStationName = props.haltStationDetails.haltStation;
     return (
-        <div>
-            <Button className='haltStationClickStyle' onClick={() => props.showVisitingPlacesMap(haltStationName)}>{haltStationName}</Button>
-            <span><hr className="horizontal"/></span>
-            {/*<div>{(props.isHaltStationExisted && (props.clickedHaltStation === haltStationName)) ? <TestFetchTomTom haltStationName={haltStationName}/> : ''}</div>*/}
+        <div className='buttonLineAlignment'>
+                <Button className='haltStationClickStyle' onClick={() => props.showVisitingPlacesMap(haltStationName)}>{haltStationName}</Button>
+                <span><hr className="horizontal"/></span>
+                {/*<div>{(props.isHaltStationExisted && (props.clickedHaltStation === haltStationName)) ? <TestFetchTomTom haltStationName={haltStationName}/> : ''}</div>*/}
         </div>
     );
 }

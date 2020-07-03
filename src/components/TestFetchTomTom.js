@@ -51,17 +51,16 @@ export default class TestFetchTomTom extends React.Component {
                 zoom: 15
             });
         }
-        return <Row id='map' style={{width:'500px',height:'500px'}}></Row>;
+        return <div id='map' style={{width: '1200px', height: '500px'}} />;
     }
 
     render() {
         //console.log(this.state.nearByPlaces);
-        const showMap = this.state.nearByPlaces.map((nearByPlace) => {
+        /*const showMap = this.state.nearByPlaces.map((nearByPlace) => {
             return <h1 key={nearByPlace.id}>{nearByPlace.address.freeformAddress}</h1>;
-        });
+        });*/
         return (
             <React.Fragment>
-                <Col>{this.props.haltStationName}</Col>
                 {/*{this.state.nearByPlaces && this.props.haltStationName ? <div>{showMap}</div> : 'empty'}*/}
                 {isEmpty(this.state.latLong) ? '' : this.showMap()}
             </React.Fragment>

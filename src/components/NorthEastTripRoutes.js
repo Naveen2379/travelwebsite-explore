@@ -76,7 +76,7 @@ export default class NorthEastTripRoutes extends React.Component {
         return (
             <Container>
                 <Row className='routesStyle'>
-                    <Col className='routeNumberStyle'>
+                    <Col lg='4' className='routeNumberStyle'>
                         { isEmpty(this.state.routesDetails) ? '' : this.state.routesDetails.map( (routeDetails) => {
                             return (
                                 <NorthEastTripRoute key={routeDetails.routeId}
@@ -84,16 +84,14 @@ export default class NorthEastTripRoutes extends React.Component {
                                                     showRoute={this.showRoute}
                                                     routeId={parseInt(this.state.routeId)} />
                             )
-                        })}</Col>
-                    <Col className='haltStations'>
-                        {isEmpty(this.state.haltStationsInfo) ? '' : showHaltStations}
+                        })}
+                    </Col>
+                    <Col lg='8' className='haltStations'>
+                            {isEmpty(this.state.haltStationsInfo) ? '' : <Row className='haltStationsRow'>{showHaltStations}</Row>}
+                        {this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation}/></Row> : ''}
                     </Col>
                 </Row>
-                <Row>
-                    {this.state.clickedHaltStation ? <TestFetchTomTom haltStationName={this.state.clickedHaltStation}/> : ''}
-                </Row>
             </Container>
-
         );
     }
 }

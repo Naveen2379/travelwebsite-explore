@@ -19,8 +19,21 @@
 
 .haltStations {
     display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 85%;
 }
-
+.haltStationsRow {
+    display: flex;
+    height: 100px;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 2px;
+    border: 1px solid aqua;
+}
+.tomtom-map {
+    margin: 10px 0px 10px 30px;
+}
 /*.routesStyle {
     width: 250px;
     height: 500px;
