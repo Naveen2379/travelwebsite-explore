@@ -1,11 +1,6 @@
 import React from "react";
 import '../styles/HaltStation.css';
-import isEmpty from 'lodash';
-import Geocode from 'react-geocode';
-
-import {Button, Col, Row} from "react-bootstrap";
-/*import MyMapContainer from "./MyMapContainer";*/
-import TestFetchTomTom from "./TestFetchTomTom";
+import {Button} from "react-bootstrap";
 
 export default function HaltStation(props) {
     const haltStationName = props.haltStationDetails.haltStation;

@@ -38,6 +38,7 @@
     "react-bootstrap": "^1.0.1",
     "react-geocode": "^0.2.1",
     "react-google-maps": "^9.4.5",
+    "react-leaflet-universal": "^2.2.1",
     "recompose": "^0.30.0"
   }
 }

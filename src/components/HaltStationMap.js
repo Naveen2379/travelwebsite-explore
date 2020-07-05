@@ -1,20 +1,28 @@
-import React, { Component } from 'react';
-import '../styles/ReactLeaflet.css';
+import React from 'react';
+import '../styles/HaltStationMap.css';
+/*import "leaflet/dist/leaflet.css";*/
 import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
+import {isEmpty} from "lodash";
+import L from 'leaflet';
 
+/*delete L.Icon.Default.prototype._getIconUrl;
 
+L.Icon.Default.mergeOptions({
+    iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
+    iconUrl: require('leaflet/dist/images/marker-icon.png'),
+    shadowUrl: require('leaflet/dist/images/marker-shadow.png')
+});*/
+
+L.Icon.Default.imagePath='public/img';
 export default class ReactLeafLetExample extends React.Component {
     state = {
-        lat: 51.505,
-        lng: -0.09,
         zoom: 13,
     }
 
     render() {
         console.log(this.props.latLongObject);
-        const latLongVal = Object.values(this.props.latLongObject.position)
-        const position = [this.state.lat, this.state.lng];
-        console.log('react leaflet map');
+        const latLongObject = this.props.latLongObject;
+        const latLongVal = isEmpty(latLongObject) ? '' : Object.values(latLongObject.position);
         console.log(latLongVal);
         return (
             <Map center={latLongVal} zoom={this.state.zoom}>

@@ -6,7 +6,7 @@ import '../styles/NorthEastTripRoutes.css'
 
 import {Row, Col, Container} from "react-bootstrap";
 import TestFetchTomTom from "./TestFetchTomTom";
-import ReactLeafLetExample from "./ReactLeaflet";
+import ReactLeafLetExample from "./HaltStationMap";
 
 
 export default class NorthEastTripRoutes extends React.Component {
@@ -54,25 +54,31 @@ export default class NorthEastTripRoutes extends React.Component {
 
     showVisitingPlaces(clickedHaltStation) {
         const haltStationName = clickedHaltStation;
+        const fetchLatLongObj = fetch('https://api.tomtom.com/search/2/geocode/'+haltStationName+'.json?limit=1&countrySet=IN&key=rB2GfD4OaR2sxZtB3Za3BSWDWZhTE6Rf')
+            .then(response => response.json())
+            .then(result => result.results[0]);
         if(this.state.clickedHaltStation === haltStationName) {
-            this.setState({
-                isHaltStationExisted: !this.state.isHaltStationExisted,
-            });
+            console.log('in if');
+            if(isEmpty(this.state.latLongObject)) {
+                fetchLatLongObj.then( (latLongObj) => {
+                    this.setState({
+                        latLongObject: latLongObj
+                    });
+                })
+            }
+            else {
+                this.setState({
+                    latLongObject: {},
+                    isHaltStationExisted: !this.state.isHaltStationExisted,
+                });
+            }
         }
         else {
-            fetch('https://api.tomtom.com/search/2/geocode/'+haltStationName+'.json?limit=1&countrySet=IN&key=rB2GfD4OaR2sxZtB3Za3BSWDWZhTE6Rf')
-                .then(response=>response.json())
-                .then(result=> { console.log(result.results[0])
-                    this.setState({
-                        latLongObject: result.results[0],
-                        clickedHaltStation: haltStationName,
-                        isHaltStationExisted: true
-                    }, ()=>console.log(this.state.latLong))
-                });
-            /*this.setState({
+            fetchLatLongObj.then( (latLongObj) => this.setState({
+                latLongObject: latLongObj,
                 clickedHaltStation: haltStationName,
                 isHaltStationExisted: true
-            }, ()=>console.log(this.state.latLong))*/
+            }, ()=>console.log(this.state.latLongObject)));
         }
     }
 
@@ -101,8 +107,8 @@ export default class NorthEastTripRoutes extends React.Component {
                     </Col>
                     <Col lg='8' className='haltStations'>
                         {isEmpty(this.state.haltStationsInfo) ? '' : <Row className='haltStationsRow'>{showHaltStations}</Row>}
-                        {/*{this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation} /></Row> : ''}*/}
-                        {this.state.clickedHaltStation ? <Row className='tomtom-map'><ReactLeafLetExample latLongObject={this.state.latLongObject} /></Row> : '' }
+                       {/* {this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation} /></Row> : ''}*/}
+                        {this.state.clickedHaltStation && !isEmpty(this.state.latLongObject) ? <Row className='tomtom-map'><ReactLeafLetExample latLongObject={this.state.latLongObject} /></Row> : '' }
                     </Col>
                 </Row>
             </Container>
