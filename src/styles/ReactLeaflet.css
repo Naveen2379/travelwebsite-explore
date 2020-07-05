@@ -1,0 +1,13 @@
+.leaflet-container {
+    background: #61dafb;
+}
+
+.leaflet-pane {
+    height: 500px;
+    position: inherit;
+    width: 1000px;
+}
+
+.map-leaflet {
+    background: red;
+}
