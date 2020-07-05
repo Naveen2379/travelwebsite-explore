@@ -2,7 +2,6 @@ import React from 'react';
 import {Col, Row} from "react-bootstrap";
 import {isEmpty} from "lodash";
 
-
 export default class TestFetchTomTom extends React.Component {
     constructor(props) {
         super(props);
@@ -14,7 +13,6 @@ export default class TestFetchTomTom extends React.Component {
     }
 
     componentDidMount() {
-
         console.log(this.props.haltStationName);
         const placeName = this.props.haltStationName;
         fetch('https://api.tomtom.com/search/2/geocode/'+placeName+'.json?limit=1&countrySet=IN&key=rB2GfD4OaR2sxZtB3Za3BSWDWZhTE6Rf')
@@ -37,12 +35,15 @@ export default class TestFetchTomTom extends React.Component {
     }
 
     showMap() {
-        const latLong = Object.values(this.state.latLong.position);
+        const latLongObject = this.state.latLong;
+        console.log(latLongObject);
+        const latLong = Object.values(latLongObject.position);
         const script = document.createElement('script');
         script.src = process.env.PUBLIC_URL + '/sdk/tomtom.min.js';
         document.body.appendChild(script);
         script.async = true;
         script.onload = function () {
+            console.log('onload map');
             window.tomtom.L.map('map', {
                 source: 'vector',
                 key: 'rB2GfD4OaR2sxZtB3Za3BSWDWZhTE6Rf',
@@ -66,5 +67,4 @@ export default class TestFetchTomTom extends React.Component {
             </React.Fragment>
         );
     }
-
 }

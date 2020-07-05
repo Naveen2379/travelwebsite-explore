@@ -65,6 +65,7 @@ export default class NorthEastTripRoutes extends React.Component {
     }
 
     render() {
+        console.log(this.state);
         const showHaltStations = this.state.haltStationsInfo.map( (haltStationDetails) => {
             return <HaltStation key={haltStationDetails.haltStation}
                                 haltStationDetails={haltStationDetails}
@@ -87,7 +88,7 @@ export default class NorthEastTripRoutes extends React.Component {
                         })}
                     </Col>
                     <Col lg='8' className='haltStations'>
-                            {isEmpty(this.state.haltStationsInfo) ? '' : <Row className='haltStationsRow'>{showHaltStations}</Row>}
+                        {isEmpty(this.state.haltStationsInfo) ? '' : <Row className='haltStationsRow'>{showHaltStations}</Row>}
                         {this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation}/></Row> : ''}
                     </Col>
                 </Row>
