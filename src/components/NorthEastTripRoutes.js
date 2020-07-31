@@ -25,14 +25,13 @@ export default class NorthEastTripRoutes extends React.Component {
     }
 
     componentDidMount() {
-        const northEastTripRoutesDetailsURL = 'http://localhost:3001/routeDetails';
+        const northEastTripRoutesDetailsURL = 'http://localhost:8080/routeDetails';
         fetch(northEastTripRoutesDetailsURL)
         .then(response => response.json())
-        .then(result => {
-            return this.setState({
+        .then(result =>  this.setState({
                 routesDetails: result
-            })
-        })
+            }, () => console.log(this.state.routesDetails))
+        )
             .catch(error => console.log('error', error));
     };
 
@@ -98,10 +97,10 @@ export default class NorthEastTripRoutes extends React.Component {
                     <Col lg='4' className='routeNumberStyle'>
                         { isEmpty(this.state.routesDetails) ? '' : this.state.routesDetails.map( (routeDetails) => {
                             return (
-                                <NorthEastTripRoute key={routeDetails.routeId}
+                                <NorthEastTripRoute key={routeDetails.routeID}
                                                     routeDetails={routeDetails}
                                                     showRoute={this.showRoute}
-                                                    routeId={parseInt(this.state.routeId)} />
+                                                    routeId={parseInt(this.state.routeID)} />
                             )
                         })}
                     </Col>
