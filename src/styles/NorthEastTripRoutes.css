@@ -2,11 +2,9 @@
     display: flex;
     margin-top: 20px;
     justify-content: left;
-    width: 100%;
 }
 
 .routeNumberStyle {
-    width: 15%;
     border: 1px solid green;
     border-radius: 5px;
     background-color: darkcyan;

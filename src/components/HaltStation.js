@@ -3,10 +3,12 @@ import '../styles/HaltStation.css';
 import {Button} from "react-bootstrap";
 
 export default function HaltStation(props) {
-    const haltStationName = props.haltStationDetails.haltStation;
+    const haltStationDetails = props.haltStationDetails;
+    //console.log(haltStationDetails);
+    //console.log(haltStationDetails.haltStationName);
     return (
         <div className='buttonLineAlignment'>
-                <Button className='haltStationClickStyle' onClick={() => props.showVisitingPlacesMap(haltStationName)}>{haltStationName}</Button>
+                <Button className='haltStationClickStyle' onClick={() => props.showVisitingPlacesMap(haltStationDetails.haltStationName)}>{haltStationDetails.haltStationName}</Button>
                 <span><hr className="horizontal"/></span>
                 {/*<div>{(props.isHaltStationExisted && (props.clickedHaltStation === haltStationName)) ? <TestFetchTomTom haltStationName={haltStationName}/> : ''}</div>*/}
         </div>

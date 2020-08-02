@@ -14,7 +14,7 @@ L.Icon.Default.mergeOptions({
 });*/
 
 L.Icon.Default.imagePath='public/img';
-export default class ReactLeafLetExample extends React.Component {
+export default class HaltStationMap extends React.Component {
     state = {
         zoom: 13,
     }

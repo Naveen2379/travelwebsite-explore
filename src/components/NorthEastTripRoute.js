@@ -20,7 +20,7 @@ export default class NorthEastTripRoute extends React.Component {
             <Row className='routeItemSidebar'>
                 <label>
                     <span>
-                    <input type="radio" value={routeDetails.routeID} onChange={this.handleRouteChange} checked={this.props.routeID === routeDetails.routeID} />
+                    <input type="radio" value={routeDetails.routeID} onChange={this.handleRouteChange} checked={this.props.routeId === parseInt(routeDetails.routeID)} />
                     <h6>{routeDetails.routeName}</h6>
                 </span>
                 </label>

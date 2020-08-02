@@ -1,0 +1,27 @@
+/*
+.mapContainer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+
+    border: 2px solid green;
+    border-radius: 5px;
+    !*margin-left: 400px;*!
+}
+
+
+.mapScreenshot {
+    padding-top: 520px;
+}*/
+
+
+.appContainer {
+    height: 500px;
+}
+
+.mapContainer {
+    width: 1500px !important;
+    height: 500px !important;
+}

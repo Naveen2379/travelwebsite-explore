@@ -9,6 +9,10 @@
     font-size: 40px;
 }
 
+.container {
+    margin: 0px !important;
+}
+
 .containerStyle {
     display: flex;
     flex-wrap: wrap;

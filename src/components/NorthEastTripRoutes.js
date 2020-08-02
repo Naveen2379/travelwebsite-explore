@@ -5,8 +5,8 @@ import HaltStation from "./HaltStation";
 import '../styles/NorthEastTripRoutes.css'
 
 import {Row, Col, Container} from "react-bootstrap";
-import TestFetchTomTom from "./TestFetchTomTom";
-import ReactLeafLetExample from "./HaltStationMap";
+import HaltStationMap from "./HaltStationMap";
+import MapBoxGL from "./MapBoxGL";
 
 
 export default class NorthEastTripRoutes extends React.Component {
@@ -25,7 +25,7 @@ export default class NorthEastTripRoutes extends React.Component {
     }
 
     componentDidMount() {
-        const northEastTripRoutesDetailsURL = 'http://localhost:8080/routeDetails';
+        const northEastTripRoutesDetailsURL = 'http://localhost:8080/routedetails';
         fetch(northEastTripRoutesDetailsURL)
         .then(response => response.json())
         .then(result =>  this.setState({
@@ -36,18 +36,20 @@ export default class NorthEastTripRoutes extends React.Component {
     };
 
     showRoute(changedRouteId) {
-        const routeInfoURL = "http://localhost:3001/route/"+ changedRouteId +"/haltStations";
+        console.log(changedRouteId);
+        const routeInfoURL = "http://localhost:8080/routedetails/"+ changedRouteId +"/haltstations";
         fetch(routeInfoURL)
             .then( response => response.json())
-            .then( result => {
+            .then( result => { console.log(result);
                 return (
                     this.setState({
-                        haltStationsInfo: result[0].stations,
+                        haltStationsInfo: result,
                         routeId: changedRouteId,
                         isHaltStationExisted: false,
                         clickedHaltStation: ''
                     })
-                )})
+                )
+            })
             .catch(err => console.log(err));
     }
 
@@ -84,7 +86,7 @@ export default class NorthEastTripRoutes extends React.Component {
     render() {
         console.log(this.state);
         const showHaltStations = this.state.haltStationsInfo.map( (haltStationDetails) => {
-            return <HaltStation key={haltStationDetails.haltStation}
+            return <HaltStation key={haltStationDetails.haltStationID}
                                 haltStationDetails={haltStationDetails}
                                 showVisitingPlacesMap={this.showVisitingPlaces}
                                 clickedHaltStation={this.state.clickedHaltStation}
@@ -94,20 +96,24 @@ export default class NorthEastTripRoutes extends React.Component {
         return (
             <Container>
                 <Row className='routesStyle'>
-                    <Col lg='4' className='routeNumberStyle'>
+                    <Col lg='2' className='routeNumberStyle'>
                         { isEmpty(this.state.routesDetails) ? '' : this.state.routesDetails.map( (routeDetails) => {
                             return (
                                 <NorthEastTripRoute key={routeDetails.routeID}
                                                     routeDetails={routeDetails}
                                                     showRoute={this.showRoute}
-                                                    routeId={parseInt(this.state.routeID)} />
+                                                    routeId={parseInt(this.state.routeId)} />
                             )
                         })}
                     </Col>
                     <Col lg='8' className='haltStations'>
-                        {isEmpty(this.state.haltStationsInfo) ? '' : <Row className='haltStationsRow'>{showHaltStations}</Row>}
+                        {/*{this.state.clickedHaltStation && !isEmpty(this.state.latLongObject) ? <Row className='tomtom-map'><MapBoxGL latLongObject={this.state.latLongObject} /></Row> : '' }*/}
+                        {isEmpty(this.state.haltStationsInfo) ? '' : <React.Fragment>
+                            <Row className='tomtom-map'><MapBoxGL haltstations={this.state.haltStationsInfo} /></Row>
+                            <Row className='haltStationsRow'>{showHaltStations}</Row>
+                        </React.Fragment>}
                        {/* {this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation} /></Row> : ''}*/}
-                        {this.state.clickedHaltStation && !isEmpty(this.state.latLongObject) ? <Row className='tomtom-map'><ReactLeafLetExample latLongObject={this.state.latLongObject} /></Row> : '' }
+                        {/*{this.state.clickedHaltStation && !isEmpty(this.state.latLongObject) ? <Row className='tomtom-map'><HaltStationMap latLongObject={this.state.latLongObject} /></Row> : '' }*/}
                     </Col>
                 </Row>
             </Container>
