@@ -1,15 +1,15 @@
 import React from 'react';
 import { isEmpty } from 'lodash';
-import NorthEastTripRoute from './NorthEastTripRoute';
+import SouthIndiaTripRoute from './SouthIndiaTripRoute';
 import HaltStation from "./HaltStation";
-import '../styles/NorthEastTripRoutes.css'
+import '../styles/SouthIndiaTripRoutes.css'
 
 import {Row, Col, Container} from "react-bootstrap";
 import HaltStationMap from "./HaltStationMap";
 import MapBoxGL from "./MapBoxGL";
 
 
-export default class NorthEastTripRoutes extends React.Component {
+export default class SouthIndiaTripRoutes extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -99,10 +99,10 @@ export default class NorthEastTripRoutes extends React.Component {
                     <Col lg='2' className='routeNumberStyle'>
                         { isEmpty(this.state.routesDetails) ? '' : this.state.routesDetails.map( (routeDetails) => {
                             return (
-                                <NorthEastTripRoute key={routeDetails.routeID}
-                                                    routeDetails={routeDetails}
-                                                    showRoute={this.showRoute}
-                                                    routeId={parseInt(this.state.routeId)} />
+                                <SouthIndiaTripRoute key={routeDetails.routeID}
+                                                     routeDetails={routeDetails}
+                                                     showRoute={this.showRoute}
+                                                     routeId={parseInt(this.state.routeId)} />
                             )
                         })}
                     </Col>

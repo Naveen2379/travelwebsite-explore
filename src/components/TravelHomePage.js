@@ -1,10 +1,10 @@
 import React from "react";
-import NorthEastTripRoutes from '../components/NorthEastTripRoutes';
-import SouthIndiaTrip from "./SouthIndiaTrip";
+import SouthIndiaTripRoutes from './SouthIndiaTripRoutes';
 import LehLadakhTrip from "./LehLadakhTrip";
 import '../styles/TravelHomePage.css';
 
 import {Row, Container} from "react-bootstrap";
+import NorthEastTrip from "./NorthEastTrip";
 
 export default class TravelHomePage extends React.Component {
     constructor(props) {
@@ -23,10 +23,10 @@ export default class TravelHomePage extends React.Component {
     render() {
         function getTrip(tripName) {
             switch(tripName) {
-                case "NorthEast Trip":
-                    return <Row className='selectedTripStyle'><NorthEastTripRoutes /></Row>;
                 case "SouthIndia Trip":
-                    return <Row className='selectedTripStyle'><SouthIndiaTrip /></Row>;
+                    return <Row className='selectedTripStyle'><SouthIndiaTripRoutes /></Row>;
+                case "NorthEast Trip":
+                    return <Row className='selectedTripStyle'><NorthEastTrip /></Row>;
                 case "LehLadakh Trip":
                     return <Row className='selectedTripStyle'><LehLadakhTrip /></Row>;
                 default:
@@ -38,12 +38,12 @@ export default class TravelHomePage extends React.Component {
                 <Row className="appHeaderContent"><h1 className='appHeader'>Route Planner</h1></Row>
                 <Row className='tripSelection'>
                     <label className="labelStyle">
-                        <input type="radio" name="trip" value="NorthEast Trip" onChange={this.handleTripChange} />
-                        NorthEast Trip
-                    </label>
-                    <label className="labelStyle">
                         <input type="radio" name="trip" value="SouthIndia Trip" onChange={this.handleTripChange} />
                         SouthIndia Trip
+                    </label>
+                    <label className="labelStyle">
+                        <input type="radio" name="trip" value="NorthEast Trip" onChange={this.handleTripChange} />
+                        NorthEast Trip
                     </label>
                     <label className="labelStyle">
                         <input type="radio" name="trip" value="LehLadakh Trip" onChange={this.handleTripChange} />
