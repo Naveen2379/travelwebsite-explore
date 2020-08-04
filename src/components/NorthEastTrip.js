@@ -8,5 +8,4 @@ export default class SouthIndiaTrip extends React.Component {
             </div>
         );
     }
-
 }

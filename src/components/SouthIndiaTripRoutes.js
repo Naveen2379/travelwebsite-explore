@@ -3,9 +3,7 @@ import { isEmpty } from 'lodash';
 import SouthIndiaTripRoute from './SouthIndiaTripRoute';
 import HaltStation from "./HaltStation";
 import '../styles/SouthIndiaTripRoutes.css'
-
 import {Row, Col, Container} from "react-bootstrap";
-import HaltStationMap from "./HaltStationMap";
 import MapBoxGL from "./MapBoxGL";
 
 

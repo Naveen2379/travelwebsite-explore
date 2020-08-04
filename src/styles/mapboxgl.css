@@ -1,20 +1,23 @@
-/*
-.mapContainer {
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
+.marker {width:0; height:0;}
 
-    border: 2px solid green;
-    border-radius: 5px;
-    !*margin-left: 400px;*!
+.marker  span {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    box-sizing:border-box;
+    width: 30px;
+    height: 30px;
+    color:#fff;
+    background: #693;
+    border:solid 2px;
+    border-radius: 0 70% 70%;
+    box-shadow:0 0 2px #000;
+    cursor: pointer;
+    transform-origin:0 0;
+    transform: rotateZ(-135deg);
 }
 
-
-.mapScreenshot {
-    padding-top: 520px;
-}*/
+.marker b {transform: rotateZ(135deg)}
 
 
 .appContainer {
