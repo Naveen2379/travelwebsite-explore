@@ -132,7 +132,6 @@ const MapBoxGL = (props) => {
                     'icon-rotation-alignment': 'map',
                     'icon-allow-overlap': true,
                     'icon-ignore-placement': true
-
                     /!*
                     // get the title name from the source's "title" property
                     'text-field': ['get', 'title'],
@@ -144,7 +143,6 @@ const MapBoxGL = (props) => {
                     'text-anchor': 'top'
                     *!/
                 }
-
             })*/
         });
 
