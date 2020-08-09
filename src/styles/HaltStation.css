@@ -1,5 +1,5 @@
-.haltStationClickStyle {
-    width: 100px;
+.halt-station-click {
+    width: auto;
     height: 50px;
     background-color: honeydew;
     border-radius: 5px;
@@ -60,13 +60,13 @@
     max-width: 1000px;
 }
 
-.buttonLineAlignment {
+.button-line-alignment {
     display: flex;
     height: fit-content;
     margin-top: 25px;
 }
 
-.buttonLineAlignment:last-child hr {
+.button-line-alignment:last-child hr {
     display: none;
 }
 
@@ -76,7 +76,3 @@
 button:hover{background-color:orange;}
 
 button:focus{background-color:red;}
-
-
-
-

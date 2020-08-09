@@ -1,36 +1,37 @@
-.routesStyle {
+/*.routesStyle {
     display: flex;
     margin-top: 20px;
     justify-content: left;
-}
+}*/
 
-.routeNumberStyle {
+.route-names {
     border: 1px solid green;
     border-radius: 5px;
     background-color: darkcyan;
     padding: 20px;
+    height: max-content;
 }
 
 .showRouteStyle {
     width: 70%;
 }
 
-.haltStations {
+.map-halt-station {
     display: flex;
     flex-wrap: wrap;
     height: 100px;
     width: 85%;
 }
-.haltStationsRow {
+.halt-stations {
     display: flex;
-    height: 100px;
+    height: max-content;
     background-color: bisque;
     padding: 10px;
     border-radius: 2px;
     border: 1px solid aqua;
 }
 .tomtom-map {
-    margin: 10px 0px 10px 30px;
+
 }
 /*.routesStyle {
     width: 250px;

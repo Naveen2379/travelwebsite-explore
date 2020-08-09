@@ -7,8 +7,8 @@ export default function HaltStation(props) {
     //console.log(haltStationDetails);
     //console.log(haltStationDetails.haltStationName);
     return (
-        <div className='buttonLineAlignment'>
-                <Button className='haltStationClickStyle' onClick={() => props.showVisitingPlacesMap(haltStationDetails.haltStationName)}>{haltStationDetails.haltStationName}</Button>
+        <div className='button-line-alignment'>
+                <Button className='halt-station-click' onClick={() => props.showVisitingPlacesMap(haltStationDetails.haltStationName)}>{haltStationDetails.haltStationName}</Button>
                 <span><hr className="horizontal"/></span>
                 {/*<div>{(props.isHaltStationExisted && (props.clickedHaltStation === haltStationName)) ? <TestFetchTomTom haltStationName={haltStationName}/> : ''}</div>*/}
         </div>

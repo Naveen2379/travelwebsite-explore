@@ -20,10 +20,6 @@
 .marker b {transform: rotateZ(135deg)}
 
 
-.appContainer {
-    height: 500px;
-}
-
 .mapContainer {
     width: 1500px !important;
     height: 500px !important;

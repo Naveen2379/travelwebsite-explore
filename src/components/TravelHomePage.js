@@ -24,34 +24,37 @@ export default class TravelHomePage extends React.Component {
         function getTrip(tripName) {
             switch(tripName) {
                 case "SouthIndia Trip":
-                    return <Row className='selectedTripStyle'><SouthIndiaTripRoutes /></Row>;
+                    return <Row className='selected-trip'><SouthIndiaTripRoutes /></Row>;
                 case "NorthEast Trip":
-                    return <Row className='selectedTripStyle'><NorthEastTrip /></Row>;
+                    return <Row className='selected-trip'><NorthEastTrip /></Row>;
                 case "LehLadakh Trip":
-                    return <Row className='selectedTripStyle'><LehLadakhTrip /></Row>;
+                    return <Row className='selected-trip'><LehLadakhTrip /></Row>;
                 default:
                     return '';
             }
         }
         return (
-            <Container className='containerStyle'>
-                <Row className="appHeaderContent"><h1 className='appHeader'>Route Planner</h1></Row>
-                <Row className='tripSelection'>
-                    <label className="labelStyle">
+            <React.Fragment /*className='containerStyle'*/>
+                {/*<Row className='appHeader'></Row>*/}
+                <Row className='header-trip'>
+                    <Row className='appHeader'><p>Route Planner</p></Row>
+                    <Row className='trip-selection'>
+                        <label className="labelStyle">
                         <input type="radio" name="trip" value="SouthIndia Trip" onChange={this.handleTripChange} />
-                        SouthIndia Trip
-                    </label>
-                    <label className="labelStyle">
-                        <input type="radio" name="trip" value="NorthEast Trip" onChange={this.handleTripChange} />
-                        NorthEast Trip
-                    </label>
-                    <label className="labelStyle">
-                        <input type="radio" name="trip" value="LehLadakh Trip" onChange={this.handleTripChange} />
-                        LehLadakh Trip
-                    </label>
+                            SouthIndia Trip
+                        </label>
+                        <label className="labelStyle">
+                            <input type="radio" name="trip" value="NorthEast Trip" onChange={this.handleTripChange} />
+                            NorthEast Trip
+                        </label>
+                        <label className="labelStyle">
+                            <input type="radio" name="trip" value="LehLadakh Trip" onChange={this.handleTripChange} />
+                            LehLadakh Trip
+                        </label>
+                    </Row>
                 </Row>
                 {getTrip(this.state.tripName)}
-            </Container>
+            </React.Fragment >
         );
     }
 

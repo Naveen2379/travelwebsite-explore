@@ -16,16 +16,13 @@ export default class SouthIndiaTripRoute extends React.Component {
 
     render() {
         const routeDetails = this.props.routeDetails;
-        return (<Col>
+        return (
             <Row className='routeItemSidebar'>
                 <label>
-                    <span>
                     <input type="radio" value={routeDetails.routeID} onChange={this.handleRouteChange} checked={this.props.routeId === parseInt(routeDetails.routeID)} />
-                    <h6>{routeDetails.routeName}</h6>
-                </span>
+                    <b>&nbsp;{routeDetails.routeName}</b>
                 </label>
             </Row>
-            </Col>
         );
     }
 }
