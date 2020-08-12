@@ -51,17 +51,30 @@ export default class SouthIndiaTripRoutes extends React.Component {
             .catch(err => console.log(err));
     }
 
+    arrayBufferToBase64(buffer) {
+        console.log(buffer);
+        let binary = '';
+        const bytes = [].slice.call(new Uint8Array(buffer));
+        bytes.forEach((b) => binary += String.fromCharCode(b));
+        return window.btoa(binary);
+    }
+
     showVisitingPlaces(clickedHaltStation) {
         const haltStationName = clickedHaltStation;
-        /*const fetchLatLongObj = fetch('https://api.tomtom.com/search/2/geocode/'+haltStationName+'.json?limit=1&countrySet=IN&key=rB2GfD4OaR2sxZtB3Za3BSWDWZhTE6Rf')
-            .then(response => response.json())
-            .then(result => result.results[0]);*/
+        const routeID = this.state.routeId;
+
         if(this.state.clickedHaltStation === haltStationName) {
-            const imgSrc = './src/images/bang_vidhana_soudha_1.jpg';
+
             if(isEmpty(this.state.haltStationImgSrc)) {
-                    this.setState({
-                        haltStationImgSrc: imgSrc,
-                    });
+                fetch("http://localhost:8080/routedetails/"+routeID+"/haltstations/"+haltStationName)
+                    .then(response => response.json())
+                    .then(result => {
+                        const base64Flag = 'data:image/jpeg;base64,';
+                        const imageStr = this.arrayBufferToBase64(result.imageSrc.data.data);
+                        this.setState({
+                            haltStationImgSrc: base64Flag + imageStr,
+                        })
+                    })
             }
             else {
                 this.setState({
@@ -72,12 +85,19 @@ export default class SouthIndiaTripRoutes extends React.Component {
             }
         }
         else {
-            const imgSrc = './src/images/bang_vidhana_soudha_1.jpg';
-            this.setState({
-                haltStationImgSrc: imgSrc,
-                clickedHaltStation: haltStationName,
-                isHaltStationExisted: true
-            }, ()=>console.log(this.state.haltStationImgSrc));
+            console.log(routeID, haltStationName);
+            fetch("http://localhost:8080/routedetails/"+routeID+"/haltstations/"+haltStationName)
+                .then(response => response.json())
+                .then(result => {
+                    console.log(result);
+                    const base64Flag = 'data:image/jpeg;base64,';
+                    const imageStr = this.arrayBufferToBase64(result.imageSrc.data.data);
+                    this.setState({
+                        haltStationImgSrc: base64Flag + imageStr,
+                        clickedHaltStation: haltStationName,
+                        isHaltStationExisted: true
+                    }, ()=>console.log(this.state.haltStationImgSrc));
+                });
         }
     }
 
@@ -106,15 +126,19 @@ export default class SouthIndiaTripRoutes extends React.Component {
                         })}
                     </Col>
                     <Col lg="10.5" className='map-halt-station'>
-                        {isEmpty(this.state.haltStationsInfo) ? '' : <React.Fragment>
+                        {
+                            isEmpty(this.state.haltStationsInfo) ? '' : <React.Fragment>
                             <Row className='tomtom-map'><MapBoxGL haltstations={this.state.haltStationsInfo} /></Row>
                             <Row className='halt-stations'>{showHaltStations}</Row>
-                            {this.state.clickedHaltStation && !isEmpty(this.state.haltStationImgSrc) ? <Row className='haltstation-image-description'><img src={require('../images/bora-bora.jpg')} alt='image' width='auto' height='auto' /></Row> : '' }
-                        </React.Fragment>}
+                            {this.state.clickedHaltStation && !isEmpty(this.state.haltStationImgSrc) ? <Row className='haltstation-image-description'><img src={this.state.haltStationImgSrc} alt='image' width='auto' height='auto' /></Row> : '' }
+                        </React.Fragment>
+                        }
                        {/* {this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation} /></Row> : ''}*/}
                         {/*{this.state.clickedHaltStation && !isEmpty(this.state.latLongObject) ? <Row className='tomtom-map'><HaltStationMap latLongObject={this.state.latLongObject} /></Row> : '' }*/}
                     </Col>
             </React.Fragment>
         );
     }
+
+
 }
