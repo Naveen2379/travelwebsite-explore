@@ -5,10 +5,14 @@
 }*/
 
 .route-names {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
     border: 1px solid green;
     border-radius: 5px;
     background-color: darkcyan;
     padding: 20px;
+    max-width: max-content !important;
     height: max-content;
 }
 
@@ -19,11 +23,15 @@
 .map-halt-station {
     display: flex;
     flex-wrap: wrap;
-    height: 100px;
-    width: 85%;
 }
+
+/*.tomtom-map {
+    max-width: 50% !important;
+}*/
+
 .halt-stations {
     display: flex;
+    flex-wrap: wrap;
     height: max-content;
     background-color: bisque;
     padding: 10px;

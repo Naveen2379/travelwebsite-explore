@@ -1,8 +1,9 @@
-.appHeader {
-    position: fixed;
+.app-header {
+    /*position: fixed;
     border-radius: 5px;
-    font-size: 40px;
+    font-size: 40px;*/
     /*background-color: gainsboro;*/
+    background-image: url("bg-4.jpeg");
 }
 
 .container {
@@ -18,12 +19,22 @@
 .header-trip {
     justify-content: center;
     height: 100px;
-    background-color: dodgerblue;
     font-size: larger;
 }
 
 .trip-selection {
-    margin-top: 65px;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.trip-selection-radio {
+    border: 1px solid chartreuse;
+    border-radius: 5px;
+    padding-top: 5px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
 }
 .appHeaderContent {
     min-height: 70px;

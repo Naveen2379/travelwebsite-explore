@@ -138,7 +138,7 @@ export default class SouthIndiaTrip extends React.Component {
                 </Row>
                 <Row>{ (this.state.isShowVisitingPlacesMapCalled) ? showMap(this.state.clickedHaltStation) : '' }</Row>
             </Row>
-        </Col>;
+        </Col>
         return (
             <div className='routeInfoStyle'>{haltStationInfo}</div>
         );

@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/mapboxgl.css';
 import geojsonExtent from '@mapbox/geojson-extent';
 import {Container, Row, Col} from "react-bootstrap";
-import '../styles/mapboxgl.css';
 
 mapboxgl.accessToken = 'pk.eyJ1IjoibmF2ZWVuMjM3OSIsImEiOiJja2Q0c2V3ZnIyMDgxMzFwZzZlajFmcm95In0.BYh74oyo9p0QGXEqynQW4w';
 
@@ -16,6 +15,8 @@ const MapBoxGL = (props) => {
     // initialize map when component mounts
     useEffect(() => {
         const coordinates = [props.haltstations[0].coordinates[1], props.haltstations[0].coordinates[0]];
+        console.log(props.haltstations[0])
+        console.log(coordinates);
         sethaltstations(props);
 
         const map = new mapboxgl.Map({
@@ -23,7 +24,7 @@ const MapBoxGL = (props) => {
             // See style options here: https://docs.mapbox.com/api/maps/#styles
             style: 'mapbox://styles/mapbox/streets-v11',
             center: coordinates,
-            zoom: 6.5,
+            zoom: 1.5,
             preserveDrawingBuffer: true
         });
 
@@ -170,11 +171,7 @@ const MapBoxGL = (props) => {
 
     }, [props.haltstations]); // eslint-disable-line react-hooks/exhaustive-deps
 
-    return <Container className='appContainer'>
-        <Col>
-            <Row className="mapContainer" ref={mapContainerRef} />
-        </Col>
-    </Container>
+    return <Col className="map-container" ref={mapContainerRef} />
 };
 
 export default MapBoxGL;

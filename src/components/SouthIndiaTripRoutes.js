@@ -114,8 +114,8 @@ export default class SouthIndiaTripRoutes extends React.Component {
         });
 
         return (
-            <React.Fragment>
-                    <Col lg="1.5" className='route-names'>
+            <>
+                    <Col className='route-names'>
                         { isEmpty(this.state.routesDetails) ? '' : this.state.routesDetails.map( (routeDetails) => {
                             return (
                                 <SouthIndiaTripRoute key={routeDetails.routeID}
@@ -125,20 +125,27 @@ export default class SouthIndiaTripRoutes extends React.Component {
                             )
                         })}
                     </Col>
-                    <Col lg="10.5" className='map-halt-station'>
+                    <Col className='map-halt-station'>
                         {
-                            isEmpty(this.state.haltStationsInfo) ? '' : <React.Fragment>
-                            <Row className='tomtom-map'><MapBoxGL haltstations={this.state.haltStationsInfo} /></Row>
-                            <Row className='halt-stations'>{showHaltStations}</Row>
-                            {this.state.clickedHaltStation && !isEmpty(this.state.haltStationImgSrc) ? <Row className='haltstation-image-description'><img src={this.state.haltStationImgSrc} alt='image' width='auto' height='auto' /></Row> : '' }
-                        </React.Fragment>
+                            isEmpty(this.state.haltStationsInfo) ? ''
+                                : <>
+                                    <Col className='halt-stations'>{showHaltStations}</Col>
+                                    <MapBoxGL haltstations={this.state.haltStationsInfo} />
+                                </>
                         }
                        {/* {this.state.clickedHaltStation ? <Row className='tomtom-map'><TestFetchTomTom haltStationName={this.state.clickedHaltStation} /></Row> : ''}*/}
                         {/*{this.state.clickedHaltStation && !isEmpty(this.state.latLongObject) ? <Row className='tomtom-map'><HaltStationMap latLongObject={this.state.latLongObject} /></Row> : '' }*/}
                     </Col>
-            </React.Fragment>
+
+                    {
+                        this.state.clickedHaltStation && !isEmpty(this.state.haltStationImgSrc) ?
+                            <Row className='haltstation-image-description'>
+                                <img src={this.state.haltStationImgSrc} alt='image' width='auto' height='auto' />
+                            </Row>
+                        : ''
+                    }
+            </>
         );
     }
-
 
 }

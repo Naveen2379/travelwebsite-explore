@@ -1,62 +1,82 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 import SouthIndiaTripRoutes from './SouthIndiaTripRoutes';
 import LehLadakhTrip from "./LehLadakhTrip";
 import '../styles/TravelHomePage.css';
-
-import {Row, Container} from "react-bootstrap";
 import NorthEastTrip from "./NorthEastTrip";
 
-export default class TravelHomePage extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            tripName: ''
-        };
-        this.handleTripChange = this.handleTripChange.bind(this);
-    }
-    handleTripChange(event) {
-        this.setState({
-           tripName:  event.target.value
-        });
+import {Row, Container, Col} from "react-bootstrap";
+import {
+    BrowserRouter as Router,
+    Route,
+    Switch,
+    useHistory
+} from "react-router-dom";
+
+
+function TravelHomePage(props) {
+
+    let history = useHistory();
+    const [tripName, setTripName] = useState('');
+    const handleTripChange = (event) => {
+        //setTripName(event.target.value);
+        const newTripName = event.target.value;
+        setTripName(newTripName);
+        console.log(newTripName)
+        console.log(history);
+        console.log(props);
+        //history.push(`/${tripName}`);
     }
 
-    render() {
-        function getTrip(tripName) {
-            switch(tripName) {
-                case "SouthIndia Trip":
-                    return <Row className='selected-trip'><SouthIndiaTripRoutes /></Row>;
-                case "NorthEast Trip":
-                    return <Row className='selected-trip'><NorthEastTrip /></Row>;
-                case "LehLadakh Trip":
-                    return <Row className='selected-trip'><LehLadakhTrip /></Row>;
-                default:
-                    return '';
-            }
+    useEffect( () => {
+        if(tripName) {
+            history.push(tripName);
         }
+    }, [tripName]);
+
         return (
-            <React.Fragment /*className='containerStyle'*/>
-                {/*<Row className='appHeader'></Row>*/}
-                <Row className='header-trip'>
-                    <Row className='appHeader'><p>Route Planner</p></Row>
-                    <Row className='trip-selection'>
-                        <label className="labelStyle">
-                        <input type="radio" name="trip" value="SouthIndia Trip" onChange={this.handleTripChange} />
-                            SouthIndia Trip
-                        </label>
-                        <label className="labelStyle">
-                            <input type="radio" name="trip" value="NorthEast Trip" onChange={this.handleTripChange} />
-                            NorthEast Trip
-                        </label>
-                        <label className="labelStyle">
-                            <input type="radio" name="trip" value="LehLadakh Trip" onChange={this.handleTripChange} />
-                            LehLadakh Trip
-                        </label>
-                    </Row>
+            <>
+                <Row className='app-header'>
+                    <h1>Route Planner</h1>
                 </Row>
-                {getTrip(this.state.tripName)}
-            </React.Fragment >
-        );
-    }
-
-
+                <Row className='trip-selection'>
+                    <div className='trip-selection-radio'>
+                        <label className="labelStyle">
+                            <input type="radio"
+                                   name="trip"
+                                   checked={tripName === 'SouthIndiaTrip'}
+                                   value="SouthIndiaTrip" onChange={handleTripChange} />
+                            <b>South India</b>
+                        </label>
+                        <label className="labelStyle">
+                            <input type="radio"
+                                   name="trip"
+                                   checked={tripName === 'NorthEastTrip'}
+                                   value="NorthEastTrip"
+                                   onChange={handleTripChange} />
+                            <b>NorthEast India</b>
+                        </label>
+                        <label className="labelStyle">
+                            <input type="radio"
+                                   name="trip"
+                                   checked={tripName === 'LehLadakhTrip'}
+                                   value="LehLadakhTrip" onChange={handleTripChange} />
+                            <b>Leh-Ladakh</b>
+                        </label>
+                    </div>
+                </Row>
+                <Switch>
+                    <Route path='/SouthIndiaTrip'>
+                        <Row className='selected-trip'><SouthIndiaTripRoutes /></Row>
+                    </Route>
+                    <Route path='/NorthEastTrip'>
+                        <Row className='selected-trip'><NorthEastTrip /></Row>
+                    </Route>Router
+                    <Route path='/LehLadakhTrip'>
+                        <Row className='selected-trip'><LehLadakhTrip /></Row>
+                    </Route>
+                </Switch>
+            </>
+        )
 }
+
+export default TravelHomePage;
